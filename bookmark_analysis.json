@@ -1,0 +1,4211 @@
+{
+  "summary": {
+    "total_bookmarks": 650,
+    "working_links": 500,
+    "dead_links": 150,
+    "duplicates": 17
+  },
+  "dead_links": [
+    {
+      "title": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "status_code": 405,
+      "domain": "news.ycombinator.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "AutoDraw",
+      "url": "https://www.autodraw.com/",
+      "status_code": 405,
+      "domain": "www.autodraw.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "ChatGPT",
+      "url": "https://chat.openai.com/?model=text-davinci-002-render-sha",
+      "status_code": 403,
+      "domain": "chat.openai.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "fabric/patterns/analyze_incident/system.md at main · danielmiessler/fabric · GitHub",
+      "url": "https://github.com/danielmiessler/fabric/blob/main/patterns/analyze_incident/system.md",
+      "status_code": 404,
+      "domain": "github.com"
+    },
+    {
+      "title": "Free AI detector | QuillBot AI",
+      "url": "https://quillbot.com/ai-content-detector",
+      "status_code": 403,
+      "domain": "quillbot.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "status_code": 403,
+      "domain": "www.perplexity.ai",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "DeepSeek - Into the Unknown",
+      "url": "https://chat.deepseek.com/a/chat/s/9a7a6945-6087-417f-bb86-736fc6e9b3f4",
+      "status_code": 403,
+      "domain": "chat.deepseek.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Humanize AI",
+      "url": "https://www.humanizeai.pro/",
+      "status_code": 403,
+      "domain": "www.humanizeai.pro",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Phind",
+      "url": "https://www.phind.com/",
+      "status_code": 403,
+      "domain": "www.phind.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "PentestGPT - AI Assistant for Penetration Testers",
+      "url": "https://pentestgpt.ai/c",
+      "status_code": 403,
+      "domain": "pentestgpt.ai",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "https://www.perplexity.ai/search/how-can-i-do-this-in-aws-BA2N57knT0mmucnbWm3LTQ",
+      "url": "https://www.perplexity.ai/search/how-can-i-do-this-in-aws-BA2N57knT0mmucnbWm3LTQ",
+      "status_code": 403,
+      "domain": "www.perplexity.ai",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Earn / Use|0PTS   : Open navigation bar",
+      "url": "javascript:void(0)",
+      "status_code": "ERROR",
+      "error": "No connection adapters were found for 'javascript:void(0)'",
+      "domain": ""
+    },
+    {
+      "title": "EC-Council | Exam Center",
+      "url": "https://www.eccexam.com/Member/UserHome.aspx#",
+      "status_code": 404,
+      "domain": "www.eccexam.com"
+    },
+    {
+      "title": "Nmap Cheat Sheet and Pro Tips | HackerTarget.com",
+      "url": "https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/",
+      "status_code": 520,
+      "domain": "hackertarget.com",
+      "note": "HTTP 520"
+    },
+    {
+      "title": "OSINT: How to find information on anyone - The First Digit - Medium",
+      "url": "https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56",
+      "status_code": 429,
+      "domain": "medium.com",
+      "note": "HTTP 429"
+    },
+    {
+      "title": "SC-200 Exam Study Guide: Microsoft Security Operations Analyst - CHARBEL NEMNOM - MVP | MCT | CCSP | CISM - Cloud & CyberSecurity",
+      "url": "https://charbelnemnom.com/sc-200-exam-study-guide/#SC-200_Exam_Target_Audience",
+      "status_code": 403,
+      "domain": "charbelnemnom.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "im setting up docker on windows 11. i got this after installation - Docker...",
+      "url": "https://www.perplexity.ai/search/im-setting-up-kArkIbgOTlKDvcDsVe2BOQ",
+      "status_code": 403,
+      "domain": "www.perplexity.ai",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "CIS_Microsoft_Azure_Foundations_Benchmark_v2.1.0.pdf",
+      "url": "file:///C:/Users/delan_000/Downloads/CIS_Microsoft_Azure_Foundations_Benchmark_v2.1.0.pdf",
+      "status_code": "ERROR",
+      "error": "No connection adapters were found for 'file:///C:/Users/delan_000/Downloads/CIS_Microsoft_Azure_Foundations_Benchmark_v2.1.0.pdf'",
+      "domain": ""
+    },
+    {
+      "title": "Twitter Activity Map (Twitter)",
+      "url": "https://twimap.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='twimap.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E14370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "twimap.com"
+    },
+    {
+      "title": "TweetDeck Geo Search (Twitter)",
+      "url": "https://tweetdeck.twitter.com/",
+      "status_code": 403,
+      "domain": "tweetdeck.twitter.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Broadcastify - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds",
+      "url": "https://www.broadcastify.com/listen/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.broadcastify.com', port=443): Max retries exceeded with url: /listen/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E5F820>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.broadcastify.com"
+    },
+    {
+      "title": "Live UA Map (Geopolitical Event Monitor Map)",
+      "url": "https://liveuamap.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='liveuamap.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DF70D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "liveuamap.com"
+    },
+    {
+      "title": "WiGLE: Wireless Network Mapping",
+      "url": "https://wigle.net/#",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='wigle.net', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E52FA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "wigle.net"
+    },
+    {
+      "title": "Strava segments",
+      "url": "https://www.doogal.co.uk/strava.php",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.doogal.co.uk', port=443): Max retries exceeded with url: /strava.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E69F70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.doogal.co.uk"
+    },
+    {
+      "title": "Bot Sentinel Dashboard ‹ Bot Sentinel",
+      "url": "https://botsentinel.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='botsentinel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DFEC70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "botsentinel.com"
+    },
+    {
+      "title": "Global Security Hotspots Map | Crisis24",
+      "url": "https://crisis24.garda.com/insights-intelligence/intelligence/risk-maps/global-security-hotspots-map",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='crisis24.garda.com', port=443): Max retries exceeded with url: /insights-intelligence/intelligence/risk-maps/global-security-hotspots-map (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DDFDF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "crisis24.garda.com"
+    },
+    {
+      "title": "Live Feeds Status",
+      "url": "https://livingatlas.arcgis.com/livefeeds-status/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='livingatlas.arcgis.com', port=443): Max retries exceeded with url: /livefeeds-status/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E14C10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "livingatlas.arcgis.com"
+    },
+    {
+      "title": "Active Fire Data | Earthdata",
+      "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='earthdata.nasa.gov', port=443): Max retries exceeded with url: /earth-observation-data/near-real-time/firms/active-fire-data (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DFEFA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "earthdata.nasa.gov"
+    },
+    {
+      "title": "Youtube Geo Search Tool",
+      "url": "https://youtube.github.io/geo-search-tool/search.html",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='youtube.github.io', port=443): Max retries exceeded with url: /geo-search-tool/search.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E52880>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "youtube.github.io"
+    },
+    {
+      "title": "Vessel Ownership & ID Records",
+      "url": "http://www.equasis.org/EquasisWeb/public/HomePage",
+      "status_code": "ERROR",
+      "error": "HTTPConnectionPool(host='www.equasis.org', port=80): Max retries exceeded with url: /EquasisWeb/public/HomePage (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED39E5F3D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.equasis.org"
+    },
+    {
+      "title": "Global Fishing Watch",
+      "url": "https://globalfishingwatch.org/map/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='globalfishingwatch.org', port=443): Max retries exceeded with url: /map/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E75CD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "globalfishingwatch.org"
+    },
+    {
+      "title": "MarineTraffic: Global Ship Tracking Intelligence | AIS Marine Traffic",
+      "url": "https://www.marinetraffic.com/en/ais/home/centerx:100.5/centery:13.6/zoom:11",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.marinetraffic.com', port=443): Max retries exceeded with url: /en/ais/home/centerx:100.5/centery:13.6/zoom:11 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E5F0D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.marinetraffic.com"
+    },
+    {
+      "title": "Maritime Database",
+      "url": "https://www.maritime-database.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.maritime-database.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E14340>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.maritime-database.com"
+    },
+    {
+      "title": "AirNav RadarBox - Live Flight Tracker and Airport Status",
+      "url": "https://www.radarbox24.com/@2.41699,27.25463,z3",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.radarbox24.com', port=443): Max retries exceeded with url: /@2.41699,27.25463,z3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E14190>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.radarbox24.com"
+    },
+    {
+      "title": "Freedar.uk (89)",
+      "url": "https://radar.freedar.uk/VirtualRadar/desktop.html",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='radar.freedar.uk', port=443): Max retries exceeded with url: /VirtualRadar/desktop.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DDFEB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "radar.freedar.uk"
+    },
+    {
+      "title": "Global Airport Webcams",
+      "url": "http://airportwebcams.net/category/australia/",
+      "status_code": "ERROR",
+      "error": "HTTPConnectionPool(host='airportwebcams.net', port=80): Max retries exceeded with url: /category/australia/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED39E5FD30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "airportwebcams.net"
+    },
+    {
+      "title": "Surveillance under Surveillance",
+      "url": "https://sunders.uber.space/#:~:text=Surveillance%20under%20Surveillance&text=Surveillance%20under%20Surveillance%20shows%20you,observe%2C%20or%20other%20interesting%20facts.",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='sunders.uber.space', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E5F3D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "sunders.uber.space"
+    },
+    {
+      "title": "Multi-Platform Search Portal (6 SM Platforms)",
+      "url": "https://www.social-searcher.com/google-social-search/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.social-searcher.com', port=443): Max retries exceeded with url: /google-social-search/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DFE730>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.social-searcher.com"
+    },
+    {
+      "title": "1. Area Maps",
+      "url": "https://mc.bbbike.org/mc/#",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='mc.bbbike.org', port=443): Max retries exceeded with url: /mc/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DFE3A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "mc.bbbike.org"
+    },
+    {
+      "title": "3. Crisis Dashboard (Macro Events)",
+      "url": "https://www.acleddata.com/dashboard/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.acleddata.com', port=443): Max retries exceeded with url: /dashboard/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E147F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.acleddata.com"
+    },
+    {
+      "title": "5. Global Newspaper Map",
+      "url": "https://newspapermap.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='newspapermap.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DDFCD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "newspapermap.com"
+    },
+    {
+      "title": "6. World News Headlines by Country",
+      "url": "https://world.einnews.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='world.einnews.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E75700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "world.einnews.com"
+    },
+    {
+      "title": "8. Yearly Trending Search Topics",
+      "url": "https://trends.google.com/trends/yis/2017/AU/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/yis/2017/AU/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E75850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "trends.google.com"
+    },
+    {
+      "title": "Trackography - Who tracks you online?",
+      "url": "https://trackography.org/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='trackography.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DDF910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "trackography.org"
+    },
+    {
+      "title": "9. Social Media Usage Statistics",
+      "url": "https://www.statista.com/",
+      "status_code": 403,
+      "domain": "www.statista.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "16. Facebook (Modify Tagged Location & Keyword to Area)",
+      "url": "https://www.facebook.com/search/photos/?q=Bangkok",
+      "status_code": 404,
+      "domain": "www.facebook.com"
+    },
+    {
+      "title": "17. Twitter (Modify search field for criteria and range)",
+      "url": "https://twitter.com/search?f=images&vertical=default&q=near%3Asydney%20within%3A5km%20filter%3Aimages&src=typd&lang=en",
+      "status_code": 403,
+      "domain": "twitter.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Mapping Arms Data - the trade in small arms and their ammunition, 1992-2014",
+      "url": "http://nisatapps.prio.org/armsglobe/index.php",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='nisatapps.prio.org', port=443): Max retries exceeded with url: /armsglobe/index.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))",
+      "domain": "nisatapps.prio.org"
+    },
+    {
+      "title": "Twitter Advanced Search (Twitter)",
+      "url": "https://twitter.com/search-advanced?lang=en&new",
+      "status_code": 403,
+      "domain": "twitter.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Social Bearing (Twitter)",
+      "url": "https://socialbearing.com/",
+      "status_code": 405,
+      "domain": "socialbearing.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "TweetBeaver (Twitter)",
+      "url": "https://tweetbeaver.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='tweetbeaver.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39EBDC70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "tweetbeaver.com"
+    },
+    {
+      "title": "Twitter User Geo Mapper (Twitter)",
+      "url": "https://keitharm.me/projects/tweet/",
+      "status_code": 502,
+      "domain": "keitharm.me",
+      "note": "HTTP 502"
+    },
+    {
+      "title": "Telegram Search",
+      "url": "https://tgstat.ru/en/search",
+      "status_code": 403,
+      "domain": "tgstat.ru",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "FB ID Extractor",
+      "url": "javascript:(function()%7Bfunction%20document_keywords()%7Bvar%20keywords%3D%27%27%3Bvar%20metas%3Ddocument.getElementsByTagName(%27meta%27)%3Bfor(var%20x%3D0%2Cy%3Dmetas.length%3Bx%3Cy%3Bx%2B%2B)%7Bif(metas%5Bx%5D.getAttribute(%22property%22)%3D%3D%22al%3Aandroid%3Aurl%22)%7Bif(prompt(%27Facebook%20ID%3A%20%27%2Bmetas%5Bx%5D.content.match(%2F%5Cd%2B%2Fg),metas%5Bx%5D.content.match(%2F%5Cd%2B%2Fg)))window.close()%3B%7D%7Dreturn%20keywords!%3D%27%27%3Fkeywords%3Afalse%3B%7Dk%3Ddocument_keywords()%3Bif(k)%7Balert(k)%3B%7D%7D)()",
+      "status_code": "ERROR",
+      "error": "No connection adapters were found for 'javascript:(function()%7Bfunction%20document_keywords()%7Bvar%20keywords%3D%27%27%3Bvar%20metas%3Ddocument.getElementsByTagName(%27meta%27)%3Bfor(var%20x%3D0%2Cy%3Dmetas.length%3Bx%3Cy%3Bx%2B%2B)%7Bif(metas%5Bx%5D.getAttribute(%22property%22)%3D%3D%22al%3Aandroid%3Aurl%22)%7Bif(prompt(%27Facebook%20ID%3A%20%27%2Bmetas%5Bx%5D.content.match(%2F%5Cd%2B%2Fg),metas%5Bx%5D.content.match(%2F%5Cd%2B%2Fg)))window.close()%3B%7D%7Dreturn%20keywords!%3D%27%27%3Fkeywords%3Afalse%3B%7Dk%3Ddocument_keywords()%3Bif(k)%7Balert(k)%3B%7D%7D)()'",
+      "domain": ""
+    },
+    {
+      "title": "White Pages® - Search for an Australian Business, Government Department or Person",
+      "url": "https://www.whitepages.com.au/",
+      "status_code": 403,
+      "domain": "www.whitepages.com.au",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "ThatsThem",
+      "url": "https://thatsthem.com/people-search",
+      "status_code": 404,
+      "domain": "thatsthem.com"
+    },
+    {
+      "title": "411 - White Pages | Find Phone Numbers, People, Addresses & More",
+      "url": "https://www.411.com/",
+      "status_code": 403,
+      "domain": "www.411.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "People Search | Intelius",
+      "url": "https://www.intelius.com/people-search?utm_source=google&utm_medium=cpc&utm_campaign=brand%20international&utm_content=25302&utm_term=%2Bintelius&gclid=Cj0KCQjw-r71BRDuARIsAB7i_QOSCvv1_ibR-OBmpUSDuiJLk75-NPxmhrl_mZv89VkDWCDdawEvLHEaAlIhEALw_wcB",
+      "status_code": 403,
+      "domain": "www.intelius.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "xlek - Free Public Data Search",
+      "url": "https://xlek.com/",
+      "status_code": 403,
+      "domain": "xlek.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "WhatsMyName Web",
+      "url": "https://whatsmyname.app/",
+      "status_code": 464,
+      "domain": "whatsmyname.app",
+      "note": "HTTP 464"
+    },
+    {
+      "title": "Namechk | Username, Domain, and Trademark Search | Username Registration",
+      "url": "https://namechk.com/",
+      "status_code": 403,
+      "domain": "namechk.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Trace Email Address Source",
+      "url": "https://whatismyipaddress.com/trace-email",
+      "status_code": 403,
+      "domain": "whatismyipaddress.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "DENMARK - Search for Person",
+      "url": "https://www.krak.dk/",
+      "status_code": 403,
+      "domain": "www.krak.dk",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "NORWAY - Yellow Pages",
+      "url": "https://www.gulesider.no/",
+      "status_code": 403,
+      "domain": "www.gulesider.no",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "SWEDEN - Eniro",
+      "url": "http://www.eniro.se/",
+      "status_code": 403,
+      "domain": "www.eniro.se",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "SWITZERLAND - Search companies and individuals in Switzerland.",
+      "url": "http://zefix.ch/en/search/entity/welcome",
+      "status_code": "ERROR",
+      "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",
+      "domain": "zefix.ch"
+    },
+    {
+      "title": "UNITED KINGDOM - 192",
+      "url": "https://www.192.com/",
+      "status_code": 403,
+      "domain": "www.192.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "FamilySearch: Sign In",
+      "url": "https://ident.familysearch.org/cis-web/oauth2/v3/authorization?client_secret=WXExoUx36sCbsd2QXtC55MN9EgTjYZ25IrLXdIMKg4WN9xnRHp5bsxGmt6g9BMq8lGvfJWNkJzxUuyZhhA8UMsLSBtlOzTRN2HEbHWTqdzoKN4%2Bkn6fOmTwhgJzj5CuaRisDhOcJ7KRugK%2BXpJZ7ZXXlJL0BJN8FglDmZ7QlIwGQ2q1qkyE6loSYd9EZnyXKhbs3O4KoQHqgTKcaG7Rimms0s1qi%2FTB6J4fZFcb%2ButkuVIgudFMklmdYXBnpvuRY4%2BD%2B82RrfRTRmcPqpThYbx8AxkBu6hiGvPoCBFT1YkXQPEIq2Na73tJAo1iyphp5dm9y9FSeiBOy1aXBOZDKUg%3D%3D&display=tree&response_type=code&redirect_uri=https%3A%2F%2Fwww.familysearch.org%2Fauth%2Ffamilysearch%2Fcallback&state=https%3A%2F%2Fwww.familysearch.org%2Ftree%2Ffind%2Fname&client_id=3Z3L-Z4GK-J7ZS-YT3Z-Q4KY-YN66-ZX5K-176R",
+      "status_code": 403,
+      "domain": "ident.familysearch.org",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Twiangulate Competition Comparison (Tiwtter )",
+      "url": "http://twiangulate.com/search/",
+      "status_code": 405,
+      "domain": "twiangulate.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "searchcode | source code search engine",
+      "url": "https://searchcode.com/",
+      "status_code": 405,
+      "domain": "searchcode.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "BatchGeo: Create an interactive map from your data",
+      "url": "https://batchgeo.com/",
+      "status_code": 403,
+      "domain": "batchgeo.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "OpenSeaMap - The free nautical chart",
+      "url": "https://map.openseamap.org/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='map.openseamap.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DF7FD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "map.openseamap.org"
+    },
+    {
+      "title": "Free Online Report Maker: Design a Custom Report - Canva",
+      "url": "https://www.canva.com/create/reports/",
+      "status_code": 403,
+      "domain": "www.canva.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "VIS. Visual Investigative Scenarios Platform",
+      "url": "https://vis.occrp.org/",
+      "status_code": 403,
+      "domain": "vis.occrp.org",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Bellingcat's Online Investigation Toolkit - Google Docs",
+      "url": "https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit",
+      "status_code": 410,
+      "domain": "docs.google.com",
+      "note": "HTTP 410"
+    },
+    {
+      "title": "CSE Utopia - start.me",
+      "url": "https://start.me/p/EL84Km/cse-utopia",
+      "status_code": 403,
+      "domain": "start.me",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Datasets & Databases - start.me",
+      "url": "https://start.me/p/9E8BrL/datasets-databases",
+      "status_code": 403,
+      "domain": "start.me",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "10 Minute Mail - Free Anonymous Temporary email - 10 Minute Mail - Free Anonymous Temporary email",
+      "url": "https://10minutemail.com/",
+      "status_code": 403,
+      "domain": "10minutemail.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "The Ultimate List of Hobbies | Discover a Hobby",
+      "url": "https://discoverahobby.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='discoverahobby.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39594EE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "discoverahobby.com"
+    },
+    {
+      "title": "OSINT for Finding People - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=drivesdk",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='docs.google.com', port=443): Max retries exceeded with url: /spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=drivesdk (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E14A30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "docs.google.com"
+    },
+    {
+      "title": "Boardreader - Forum Search Engine",
+      "url": "https://boardreader.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='boardreader.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39ED70D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "boardreader.com"
+    },
+    {
+      "title": "Terrorism & Radicalisation Research Dashboard.",
+      "url": "https://start.me/p/OmExgb/terrorism-radicalisation-research-dashboard",
+      "status_code": 403,
+      "domain": "start.me",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "The Jamestown Foundation",
+      "url": "https://jamestown.org/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='jamestown.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39ED7100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "jamestown.org"
+    },
+    {
+      "title": "ToolDatabase < Dmi < Foswiki",
+      "url": "https://wiki.digitalmethods.net/Dmi/ToolDatabase",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='wiki.digitalmethods.net', port=443): Max retries exceeded with url: /Dmi/ToolDatabase (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E69F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "wiki.digitalmethods.net"
+    },
+    {
+      "title": "Data: Querying, Analyzing and Downloading: The GDELT Project",
+      "url": "https://www.gdeltproject.org/data.html#rawdatafiles",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.gdeltproject.org', port=443): Max retries exceeded with url: /data.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED395946D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.gdeltproject.org"
+    },
+    {
+      "title": "Bellingcat's Online Investigation Toolkit [bit.ly/bcattools] - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=1575012979",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='docs.google.com', port=443): Max retries exceeded with url: /spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E52DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "docs.google.com"
+    },
+    {
+      "title": "Free Online OCR - Image to text or PDF to Doc converter",
+      "url": "https://www.onlineocr.net/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.onlineocr.net', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E75910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.onlineocr.net"
+    },
+    {
+      "title": "The Ultimate OSINT Collection - start.me",
+      "url": "https://start.me/p/DPYPMz/the-ultimate-osint-collection",
+      "status_code": 403,
+      "domain": "start.me",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "DeepL Translate: The world's most accurate translator",
+      "url": "https://www.deepl.com/translator",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.deepl.com', port=443): Max retries exceeded with url: /translator (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39DDFDF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.deepl.com"
+    },
+    {
+      "title": "SOC Prime Platform",
+      "url": "https://tdm.socprime.com/signup/?event_page=socprime.com",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='tdm.socprime.com', port=443): Max retries exceeded with url: /signup/?event_page=socprime.com (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39EBD310>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "tdm.socprime.com"
+    },
+    {
+      "title": "Hunting with Splunk: The Basics | Splunk",
+      "url": "https://www.splunk.com/en_us/blog/security/hunting-with-splunk-the-basics.html",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.splunk.com', port=443): Max retries exceeded with url: /en_us/blog/security/hunting-with-splunk-the-basics.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E69DF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.splunk.com"
+    },
+    {
+      "title": "MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing (formely known as Malware Information Sharing Platform)",
+      "url": "https://www.misp-project.org/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.misp-project.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E520A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.misp-project.org"
+    },
+    {
+      "title": "ThreatConnect | Risk-Threat-Response",
+      "url": "https://threatconnect.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='threatconnect.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39F14D30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "threatconnect.com"
+    },
+    {
+      "title": "Open Threat Exchange (OTX) | AlienVault | AT&T Cybersecurity",
+      "url": "https://cybersecurity.att.com/open-threat-exchange",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='cybersecurity.att.com', port=443): Max retries exceeded with url: /open-threat-exchange (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39EF7A90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "cybersecurity.att.com"
+    },
+    {
+      "title": "Threat Intelligence Reports by Industry | FireEye",
+      "url": "https://www.fireeye.com/current-threats/reports-by-industry.html",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.fireeye.com', port=443): Max retries exceeded with url: /current-threats/reports-by-industry.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39594610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "www.fireeye.com"
+    },
+    {
+      "title": "IOC Editor | Free Security Software | FireEye",
+      "url": "https://www.fireeye.com/services/freeware/ioc-editor.html",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.fireeye.com', port=443): Max retries exceeded with url: /services/freeware/ioc-editor.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39EBD6A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "www.fireeye.com"
+    },
+    {
+      "title": "Redline | Free Security Software | FireEye",
+      "url": "https://www.fireeye.com/services/freeware/redline.html",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.fireeye.com', port=443): Max retries exceeded with url: /services/freeware/redline.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E52F40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "www.fireeye.com"
+    },
+    {
+      "title": "APT Groups and Operations - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=2069598202",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='docs.google.com', port=443): Max retries exceeded with url: /spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39ED7970>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "docs.google.com"
+    },
+    {
+      "title": "SANS Institute",
+      "url": "https://www.sans.org/account/summits/61390",
+      "status_code": 403,
+      "domain": "www.sans.org",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "SEC.gov | Company Search Page",
+      "url": "https://www.sec.gov/edgar/searchedgar/companysearch.html",
+      "status_code": 403,
+      "domain": "www.sec.gov",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "GitHub - sans-blue-team/freq.py: Mark Baggett's (@MarkBaggett - GSE #15, SANS SEC573 Author) tool for detecting randomness using NLP techniques rather than pure entropy calculations. Uses character pair frequency analysis to determine the likelihood of tested strings of characters occurring.",
+      "url": "https://github.com/sans-blue-team/freq.py",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /sans-blue-team/freq.py (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39F087F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - MarkBaggett/domain_stats",
+      "url": "https://github.com/MarkBaggett/domain_stats",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /MarkBaggett/domain_stats (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E5F340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - Sentinel-One/CobaltStrikeParser",
+      "url": "https://github.com/Sentinel-One/CobaltStrikeParser",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /Sentinel-One/CobaltStrikeParser (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED3A10E190>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - correlatedsecurity/Awesome-SOAR: A curated Cyber \"Security Orchestration, Automation and Response (SOAR)\" awesome list.",
+      "url": "https://github.com/correlatedsecurity/Awesome-SOAR",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /correlatedsecurity/Awesome-SOAR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39E5F2E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - TheHive-Project/TheHive: TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+      "url": "https://github.com/TheHive-Project/TheHive",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /TheHive-Project/TheHive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED3A10E940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "domain": "github.com"
+    },
+    {
+      "title": "Known Exploited Vulnerabilities Catalog | CISA",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='www.cisa.gov', port=443): Read timed out. (read timeout=10)",
+      "domain": "www.cisa.gov"
+    },
+    {
+      "title": "CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF",
+      "url": "https://media.defense.gov/2022/Jun/22/2003021689/-1/-1/1/CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF",
+      "status_code": 403,
+      "domain": "media.defense.gov",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Pentester Academy: Learn Pentesting Online",
+      "url": "https://www.pentesteracademy.com/",
+      "status_code": 405,
+      "domain": "www.pentesteracademy.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "https://www.attackdefense.com/latestlabs",
+      "url": "https://www.attackdefense.com/latestlabs",
+      "status_code": 405,
+      "domain": "www.attackdefense.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "crt.sh | Certificate Search",
+      "url": "https://crt.sh/",
+      "status_code": 502,
+      "domain": "crt.sh",
+      "note": "HTTP 502"
+    },
+    {
+      "title": "CVE security vulnerability database. Security vulnerabilities, exploits, references and more",
+      "url": "https://www.cvedetails.com/",
+      "status_code": 403,
+      "domain": "www.cvedetails.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "How I Passed The OSCP On My First Attempt | by Lance Kassab | Medium",
+      "url": "https://medium.com/@ch3fez/how-i-passed-my-oscp-e68793c4769c",
+      "status_code": 429,
+      "domain": "medium.com",
+      "note": "HTTP 429"
+    },
+    {
+      "title": "https://chat.openai.com/chat?__cf_chl_rt_tk=3LjrYnEX.yu5NA8JGHkfNJKJ8v0iHvyj7yqYgvnVAhM-1678370476-0-gaNycGzNGSU",
+      "url": "https://chat.openai.com/chat",
+      "status_code": 403,
+      "domain": "chat.openai.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Index of /raspberry_pi_sensor",
+      "url": "https://activecountermeasures.com/raspberry_pi_sensor/",
+      "status_code": 403,
+      "domain": "activecountermeasures.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Member Area",
+      "url": "https://www.pentesteracademy.com/members",
+      "status_code": 405,
+      "domain": "www.pentesteracademy.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "NexGenT | Next Generation Training For IT Professionals",
+      "url": "https://nexgent.com/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='ngt.academy', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",
+      "domain": "nexgent.com"
+    },
+    {
+      "title": "picoCTF - CMU Cybersecurity Competition",
+      "url": "https://picoctf.org/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='picoctf.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ED39565340>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "picoctf.org"
+    },
+    {
+      "title": "PNPT TCM Security",
+      "url": "https://academy.tcm-sec.com/courses/pnpt-live/lectures/41003723",
+      "status_code": 401,
+      "domain": "academy.tcm-sec.com",
+      "note": "HTTP 401"
+    },
+    {
+      "title": "Rubrik_Ransomware_Best_Practices.pdf",
+      "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ttnl.nl/wp-content/uploads/2020/05/Rubrik_Ransomware_Best_Practices.pdf",
+      "status_code": "ERROR",
+      "error": "No connection adapters were found for 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ttnl.nl/wp-content/uploads/2020/05/Rubrik_Ransomware_Best_Practices.pdf'",
+      "domain": "efaidnbmnnnibpcajpcglclefindmkaj"
+    },
+    {
+      "title": "SANS Institute",
+      "url": "https://www.sans.org/account/netwars/",
+      "status_code": 404,
+      "domain": "www.sans.org"
+    },
+    {
+      "title": "Two Sum - LeetCode",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "status_code": 403,
+      "domain": "leetcode.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Cyberbellum Corporation Site",
+      "url": "https://cyberbellum.mykajabi.com/products/cyberwars",
+      "status_code": 404,
+      "domain": "cyberbellum.mykajabi.com"
+    },
+    {
+      "title": "StackSocial",
+      "url": "https://stacksocial.com/user/purchases?utm_campaign=Order+Confirmation&utm_medium=email&utm_source=StackCommerce+Marketing",
+      "status_code": 403,
+      "domain": "stacksocial.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "FitGirl Repacks",
+      "url": "https://fitgirl-repacks.site/",
+      "status_code": 403,
+      "domain": "fitgirl-repacks.site",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Dashboard",
+      "url": "https://portal.connectresident.com/#/dashboard",
+      "status_code": 405,
+      "domain": "portal.connectresident.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "Startup Jobs | Wellfound (formerly AngelList Talent)",
+      "url": "https://wellfound.com/jobs",
+      "status_code": 403,
+      "domain": "wellfound.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "TrueUp | The CareerOS for people in tech",
+      "url": "https://www.trueup.io/",
+      "status_code": 403,
+      "domain": "www.trueup.io",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Job Search | Indeed",
+      "url": "https://www.indeed.com/",
+      "status_code": 403,
+      "domain": "www.indeed.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Suggested Jobs | ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/jobseeker/home",
+      "status_code": 403,
+      "domain": "www.ziprecruiter.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Dashboard | Monster.com",
+      "url": "https://www.monster.com/profile/dashboard?from=homepage",
+      "status_code": 405,
+      "domain": "www.monster.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "Community | Glassdoor",
+      "url": "https://www.glassdoor.com/Community/index.htm",
+      "status_code": 403,
+      "domain": "www.glassdoor.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Easy apply - Senior Security Engineer - SOAR & Incident Response - Procore Technologies",
+      "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ProcoreTechnologies/publication/a7b46a37-b784-4944-8ac6-dbd051884a78?dcr_ci=ProcoreTechnologies",
+      "status_code": 403,
+      "domain": "jobs.smartrecruiters.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "USAJOBS - Waiting Room",
+      "url": "https://www.usajobs.gov/Search/SearchError/",
+      "status_code": 400,
+      "domain": "www.usajobs.gov",
+      "note": "HTTP 400"
+    },
+    {
+      "title": "Home Page - Watch the Latest Movies and TV Shows for Free on Flixtor.to",
+      "url": "https://flixtor.to/home",
+      "status_code": "ERROR",
+      "error": "Exceeded 30 redirects.",
+      "domain": "flixtor.to"
+    },
+    {
+      "title": "40 Helpful Links for Guitar Players | Guitar Chalk",
+      "url": "http://www.guitarchalk.com/40-helpful-links-for-guitar-players/",
+      "status_code": 403,
+      "domain": "www.guitarchalk.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "`",
+      "url": "https://my.ticketmaster.com/account",
+      "status_code": 401,
+      "domain": "my.ticketmaster.com",
+      "note": "HTTP 401"
+    },
+    {
+      "title": "210 Awesome Open Guitar Chords and How to Use Them - A Kings Mercury",
+      "url": "http://akingsmercury.com/open-guitar-chords/",
+      "status_code": "ERROR",
+      "error": "HTTPConnectionPool(host='akingsmercury.com', port=80): Max retries exceeded with url: /open-guitar-chords/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED395805E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))",
+      "domain": "akingsmercury.com"
+    },
+    {
+      "title": "Guitar KnowledgeNet Chord Progression Generator",
+      "url": "http://www.guitarknowledgenet.com/progression_builder.php",
+      "status_code": "ERROR",
+      "error": "HTTPConnectionPool(host='survey-smiles.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED39DDF940>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed'))",
+      "domain": "www.guitarknowledgenet.com"
+    },
+    {
+      "title": "http://www.ultimate-guitar.com/",
+      "url": "http://www.ultimate-guitar.com/",
+      "status_code": 405,
+      "domain": "www.ultimate-guitar.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "Music Careers | Get In Media",
+      "url": "http://getinmedia.com/industry/music",
+      "status_code": 403,
+      "domain": "getinmedia.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Music Production Tips from Tenth Egg",
+      "url": "http://www.tenthegg.co.uk/tips/archive/",
+      "status_code": 503,
+      "domain": "www.tenthegg.co.uk",
+      "note": "HTTP 503"
+    },
+    {
+      "title": "NETLAB+",
+      "url": "https://ndg.pnw.edu/my-netlab-s.cgi",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='ndg.pnw.edu', port=443): Max retries exceeded with url: /my-netlab-s.cgi (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",
+      "domain": "ndg.pnw.edu"
+    },
+    {
+      "title": "NETLAB+",
+      "url": "https://ndg.pnw.edu/lab.cgi",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='ndg.pnw.edu', port=443): Max retries exceeded with url: /lab.cgi (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",
+      "domain": "ndg.pnw.edu"
+    },
+    {
+      "title": "Mail - Delaney A Scarangella - Outlook",
+      "url": "https://outlook.office.com/mail/",
+      "status_code": 405,
+      "domain": "outlook.office.com",
+      "note": "HTTP 405"
+    },
+    {
+      "title": "Library Genesis",
+      "url": "https://libgen.is/",
+      "status_code": "ERROR",
+      "error": "HTTPSConnectionPool(host='libgen.is', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED3AAF7D00>, 'Connection to libgen.is timed out. (connect timeout=10)'))",
+      "domain": "libgen.is"
+    },
+    {
+      "title": "Freedium",
+      "url": "https://freedium.cfd/",
+      "status_code": 403,
+      "domain": "freedium.cfd",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Remove medium.com paywall | BlackHatWorld",
+      "url": "https://www.blackhatworld.com/seo/remove-medium-com-paywall.1537434/",
+      "status_code": 403,
+      "domain": "www.blackhatworld.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Used & Refurbished Apple Watches | Back Market",
+      "url": "https://www.backmarket.com/en-us/l/apple-watch/38fd0158-d500-43d2-817c-738859e3e7dd?p=0#model=999%2520Apple%2520Watch%2520Series%25207",
+      "status_code": 403,
+      "domain": "www.backmarket.com",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Vx Underground",
+      "url": "https://vx-underground.org/Papers/Other/Cryptocurrency%20Analysis",
+      "status_code": 403,
+      "domain": "vx-underground.org",
+      "note": "HTTP 403"
+    },
+    {
+      "title": "Jake's Resume - Online LaTeX Editor Overleaf",
+      "url": "https://www.overleaf.com/project/68347acd3692c04627d93bf9",
+      "status_code": 403,
+      "domain": "www.overleaf.com",
+      "note": "HTTP 403"
+    }
+  ],
+  "duplicates": [
+    {
+      "type": "duplicate_title",
+      "title": "IppSec - YouTube",
+      "urls": [
+        "https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/videos",
+        "https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "SANS Institute",
+      "urls": [
+        "https://www.sans.org/account/summits/61390",
+        "https://www.sans.org/account/netwars/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "Making Memories - Using Memory Analysis for Faster Response to User Investigations, Jessica Hyde, Aaron Sparling.pdf",
+      "urls": [
+        "https://sansorg.egnyte.com/dl/T1uHH6hf7w/",
+        "https://sansorg.egnyte.com/dl/N8dv5oGsmV/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "OSINT Dojo",
+      "urls": [
+        "https://www.osintdojo.com/",
+        "https://www.osintdojo.com/ranks/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "OSINT Dojo",
+      "urls": [
+        "https://www.osintdojo.com/",
+        "https://www.osintdojo.com/ranks/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "Making Memories - Using Memory Analysis for Faster Response to User Investigations, Jessica Hyde, Aaron Sparling.pdf",
+      "urls": [
+        "https://sansorg.egnyte.com/dl/T1uHH6hf7w/",
+        "https://sansorg.egnyte.com/dl/N8dv5oGsmV/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "IppSec - YouTube",
+      "urls": [
+        "https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/videos",
+        "https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "SANS Institute",
+      "urls": [
+        "https://www.sans.org/account/summits/61390",
+        "https://www.sans.org/account/netwars/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "A Aeolian Scale",
+      "urls": [
+        "http://jguitar.com/scale?root=A&scale=Aeolian&fret=12&labels=tone¬es=sharps",
+        "http://jguitar.com/scale?root=A&scale=Aeolian&fret=12&labels=tone%C2%ACes=sharps"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "Hot Samples",
+      "urls": [
+        "https://www.reddit.com/r/HotSamples/#res:ner-page=2",
+        "https://www.reddit.com/r/HotSamples/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "Hot Samples",
+      "urls": [
+        "https://www.reddit.com/r/HotSamples/#res:ner-page=2",
+        "https://www.reddit.com/r/HotSamples/"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "A Aeolian Scale",
+      "urls": [
+        "http://jguitar.com/scale?root=A&scale=Aeolian&fret=12&labels=tone¬es=sharps",
+        "http://jguitar.com/scale?root=A&scale=Aeolian&fret=12&labels=tone%C2%ACes=sharps"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "NETLAB+",
+      "urls": [
+        "https://ndg.pnw.edu/my-netlab-s.cgi",
+        "https://ndg.pnw.edu/lab.cgi"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "NETLAB+",
+      "urls": [
+        "https://ndg.pnw.edu/my-netlab-s.cgi",
+        "https://ndg.pnw.edu/lab.cgi"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_url",
+      "url": "https://seq.prismhr.com/seq/auth/#/login?lang=en",
+      "count": 2,
+      "titles": [
+        "Employee Portal",
+        "Employee Portal"
+      ]
+    },
+    {
+      "type": "duplicate_title",
+      "title": "Loren + Walter - Wedding",
+      "urls": [
+        "https://janelleputrichphotography.passgallery.com/-lorenwalterwedding/login?&redirect_back=%2f-lorenwalterwedding%2fgallery",
+        "https://janelleputrichphotography.passgallery.com/-lorenwalterwedding/gallery"
+      ],
+      "count": 2
+    },
+    {
+      "type": "duplicate_title",
+      "title": "Loren + Walter - Wedding",
+      "urls": [
+        "https://janelleputrichphotography.passgallery.com/-lorenwalterwedding/login?&redirect_back=%2f-lorenwalterwedding%2fgallery",
+        "https://janelleputrichphotography.passgallery.com/-lorenwalterwedding/gallery"
+      ],
+      "count": 2
+    }
+  ],
+  "working_links": [
+    {
+      "title": "Login - isolved Benefit Services",
+      "url": "https://infinconsumer.lh1ondemand.com/Login.aspx",
+      "status_code": 200,
+      "domain": "infinconsumer.lh1ondemand.com"
+    },
+    {
+      "title": "AI Document Creator",
+      "url": "https://www.aidocmaker.com/",
+      "status_code": 200,
+      "domain": "www.aidocmaker.com"
+    },
+    {
+      "title": "AI Text Converter - Online Humanize AI Text Converter",
+      "url": "https://aitextconverter.com/",
+      "status_code": 200,
+      "domain": "aitextconverter.com"
+    },
+    {
+      "title": "ChatGPT-Dan-Jailbreak.md · GitHub",
+      "url": "https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516",
+      "status_code": 200,
+      "domain": "gist.github.com"
+    },
+    {
+      "title": "coverletter.me",
+      "url": "https://aicoverletter.me/",
+      "status_code": 200,
+      "domain": "aicoverletter.me"
+    },
+    {
+      "title": "Fast & Free ChatGPT prompts, OpenAI, Character Bots store | FlowGPT",
+      "url": "https://flowgpt.com/",
+      "status_code": 200,
+      "domain": "flowgpt.com"
+    },
+    {
+      "title": "Flux AI - Free Online Flux.1 AI Image Generator",
+      "url": "https://flux1.ai/",
+      "status_code": 200,
+      "domain": "flux1.ai"
+    },
+    {
+      "title": "HackAIGC",
+      "url": "https://www.hackaigc.com/?apiKey=AIzaSyAaSg74fiq2FKPvfqo9QT55c5DmCmETKVY&oobCode=19sYbW1Tvl4xv1R4xrw5IS0UdNHzigZgVMO1VMh6nY4AAAGOik3bWw&mode=signIn&lang=en",
+      "status_code": 200,
+      "domain": "www.hackaigc.com"
+    },
+    {
+      "title": "image | FlowGPT",
+      "url": "https://flowgpt.com/search?q=image",
+      "status_code": 200,
+      "domain": "flowgpt.com"
+    },
+    {
+      "title": "Jailbreak Chat",
+      "url": "https://www.jailbreakchat.com/",
+      "status_code": 200,
+      "domain": "www.jailbreakchat.com"
+    },
+    {
+      "title": "make real • tldraw",
+      "url": "https://makereal.tldraw.com/",
+      "status_code": 200,
+      "domain": "makereal.tldraw.com"
+    },
+    {
+      "title": "PDF.ai | OCR PDF",
+      "url": "https://pdf.ai/tools/ocr-pdf",
+      "status_code": 200,
+      "domain": "pdf.ai"
+    },
+    {
+      "title": "STRIDE GPT · Streamlit",
+      "url": "https://stridegpt.streamlit.app/",
+      "status_code": 200,
+      "domain": "stridegpt.streamlit.app"
+    },
+    {
+      "title": "50 Best AI Apps to Optimize Workflows for 2025 | ClickUp",
+      "url": "https://clickup.com/blog/best-ai-apps/",
+      "status_code": 200,
+      "domain": "clickup.com"
+    },
+    {
+      "title": "prompts.chat — awesome AI prompts",
+      "url": "https://prompts.chat/#act-as-a-fallacy-finder",
+      "status_code": 200,
+      "domain": "prompts.chat"
+    },
+    {
+      "title": "Chef by Convex | Generate realtime full‑stack apps",
+      "url": "https://chef.convex.dev/",
+      "status_code": 200,
+      "domain": "chef.convex.dev"
+    },
+    {
+      "title": "Cylect.io, the Ultimate AI OSINT Framework",
+      "url": "https://cylect.io/",
+      "status_code": 200,
+      "domain": "cylect.io"
+    },
+    {
+      "title": "Vanilla Bean Chamomile Mead - One Gallon Recipe – Pixie's Pocket",
+      "url": "https://www.pixiespocket.com/2015/03/vanilla-bean-chamomile-mead.html",
+      "status_code": 200,
+      "domain": "www.pixiespocket.com"
+    },
+    {
+      "title": "Strawberry Mead Recipe: How to Make Mead - Attainable Sustainable",
+      "url": "https://www.attainable-sustainable.net/mead-recipe/",
+      "status_code": 200,
+      "domain": "www.attainable-sustainable.net"
+    },
+    {
+      "title": "How to Backsweeten Mead and Cider - American Homebrewers Association",
+      "url": "https://www.homebrewersassociation.org/beyond-beer/how-to-backsweeten-mead-and-cider/",
+      "status_code": 200,
+      "domain": "www.homebrewersassociation.org"
+    },
+    {
+      "title": "Sacred Brewing: Persephone Mead – Pixie's Pocket",
+      "url": "https://www.pixiespocket.com/2020/03/sacred-brewing-persephone-mead.html",
+      "status_code": 200,
+      "domain": "www.pixiespocket.com"
+    },
+    {
+      "title": "How to Make a Gallon of Mead: A Simple Mead Recipe",
+      "url": "https://www.growforagecookferment.com/how-to-make-a-gallon-of-mead/#recipe",
+      "status_code": 200,
+      "domain": "www.growforagecookferment.com"
+    },
+    {
+      "title": "Elderflower Sparkling Mead",
+      "url": "https://www.growforagecookferment.com/elderflower-sparkling-mead/",
+      "status_code": 200,
+      "domain": "www.growforagecookferment.com"
+    },
+    {
+      "title": "recipes/beginner/0001 - mead",
+      "url": "https://www.reddit.com/r/mead/wiki/recipes/beginner/0001",
+      "status_code": 200,
+      "domain": "www.reddit.com"
+    },
+    {
+      "title": "TOSNA CALCULATOR | Mead Made Right",
+      "url": "https://www.meadmaderight.com/tosna-calculator",
+      "status_code": 200,
+      "domain": "www.meadmaderight.com"
+    },
+    {
+      "title": "Main Page | Modern Meadmaking",
+      "url": "https://meadmaking.wiki/en/home",
+      "status_code": 200,
+      "domain": "meadmaking.wiki"
+    },
+    {
+      "title": "ActiveAimee Elizabeth Miller",
+      "url": "https://www.facebook.com/messages/t/1192916922/",
+      "status_code": 200,
+      "domain": "www.facebook.com"
+    },
+    {
+      "title": "Digital Journalism | OSINT Essentials",
+      "url": "https://www.osintessentials.com/",
+      "status_code": 200,
+      "domain": "www.osintessentials.com"
+    },
+    {
+      "title": "Free Automated Malware Analysis Service - powered by Falcon Sandbox",
+      "url": "https://www.hybrid-analysis.com/",
+      "status_code": 200,
+      "domain": "www.hybrid-analysis.com"
+    },
+    {
+      "title": "GitHub - hacktoolspack/hack-tools: hack tools",
+      "url": "https://github.com/hacktoolspack/hack-tools",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - i3visio/osrframework: OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.",
+      "url": "https://github.com/i3visio/osrframework",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - undergroundwires/CEH-in-bullet-points: 💻 Certified ethical hacker summary in bullet points",
+      "url": "https://github.com/undergroundwires/CEH-in-bullet-points",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "h4cker/pcaps at master · The-Art-of-Hacking/h4cker · GitHub",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker/tree/master/pcaps",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "IppSec - YouTube",
+      "url": "https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/videos",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "Login | ASPEN",
+      "url": "https://aspen.eccouncil.org/Account/Login?ReturnUrl=%2fMyCourses",
+      "status_code": 200,
+      "domain": "aspen.eccouncil.org"
+    },
+    {
+      "title": "My Courses | ASPEN",
+      "url": "https://aspen.eccouncil.org/MyCourses",
+      "status_code": 200,
+      "domain": "aspen.eccouncil.org"
+    },
+    {
+      "title": "Pocket Prep",
+      "url": "https://study.pocketprep.com/quiz/create",
+      "status_code": 200,
+      "domain": "study.pocketprep.com"
+    },
+    {
+      "title": "Privilege Escalation - Linux · pentestbook",
+      "url": "https://chryzsh.gitbooks.io/pentestbook/privilege_escalation_-_linux.html",
+      "status_code": 200,
+      "domain": "chryzsh.gitbooks.io"
+    },
+    {
+      "title": "Privilege escalation: Linux - Hacker's Grimoire",
+      "url": "https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux",
+      "status_code": 200,
+      "domain": "vulp3cula.gitbook.io"
+    },
+    {
+      "title": "Software Reviews, Opinions, and Tips - DNSstuff",
+      "url": "https://www.dnsstuff.com/",
+      "status_code": 200,
+      "domain": "www.dnsstuff.com"
+    },
+    {
+      "title": "The Penetration Testing Execution Standard",
+      "url": "http://www.pentest-standard.org/index.php/Main_Page",
+      "status_code": 200,
+      "domain": "www.pentest-standard.org"
+    },
+    {
+      "title": "tisiphone.net – [Lesley Carhart, Full Spectrum Cyber-Warrior Princess]",
+      "url": "https://tisiphone.net/",
+      "status_code": 200,
+      "domain": "tisiphone.net"
+    },
+    {
+      "title": "Tor/Usage/Nmap-scan-through-tor - aldeid",
+      "url": "https://www.aldeid.com/wiki/Tor/Usage/Nmap-scan-through-tor",
+      "status_code": 200,
+      "domain": "www.aldeid.com"
+    },
+    {
+      "title": "Total Seminars Training Hub - Total Seminars Training Hub",
+      "url": "https://hub.totalsem.com/",
+      "status_code": 200,
+      "domain": "hub.totalsem.com"
+    },
+    {
+      "title": "User Home",
+      "url": "https://proctor1.examspecialists.com/User/UserHome.aspx",
+      "status_code": 200,
+      "domain": "proctor1.examspecialists.com"
+    },
+    {
+      "title": "abuse.ch | Fighting malware and botnets",
+      "url": "https://abuse.ch/",
+      "status_code": 200,
+      "domain": "abuse.ch"
+    },
+    {
+      "title": "Feodo Tracker",
+      "url": "https://feodotracker.abuse.ch/",
+      "status_code": 200,
+      "domain": "feodotracker.abuse.ch"
+    },
+    {
+      "title": "SSLBL | Detecting malicious SSL connections",
+      "url": "https://sslbl.abuse.ch/",
+      "status_code": 200,
+      "domain": "sslbl.abuse.ch"
+    },
+    {
+      "title": "Deciduous: A Security Decision Tree Generator | Sensemaking by Shortridge",
+      "url": "https://kellyshortridge.com/blog/posts/deciduous-attack-tree-app/",
+      "status_code": 200,
+      "domain": "kellyshortridge.com"
+    },
+    {
+      "title": "Introduction — Threat Hunter Playbook",
+      "url": "https://threathunterplaybook.com/intro.html",
+      "status_code": 200,
+      "domain": "threathunterplaybook.com"
+    },
+    {
+      "title": "DNB Signup | Team Cymru",
+      "url": "https://www.team-cymru.com/dnbsignup",
+      "status_code": 200,
+      "domain": "www.team-cymru.com"
+    },
+    {
+      "title": "GitHub - tidalcyber/cyber-threat-profiling: A library of reference materials, tools, and other resources to aid threat profiling, threat quantification, and cyber adversary defense",
+      "url": "https://github.com/tidalcyber/cyber-threat-profiling",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Agent Tesla (Malware Family)",
+      "url": "https://malpedia.caad.fkie.fraunhofer.de/details/win.agent_tesla",
+      "status_code": 200,
+      "domain": "malpedia.caad.fkie.fraunhofer.de"
+    },
+    {
+      "title": "ATT&CK Data & Tools | MITRE ATT&CK®",
+      "url": "https://attack.mitre.org/resources/attack-data-and-tools/",
+      "status_code": 200,
+      "domain": "attack.mitre.org"
+    },
+    {
+      "title": "GitHub - hslatman/awesome-threat-intelligence: A curated list of Awesome Threat Intelligence resources",
+      "url": "https://github.com/hslatman/awesome-threat-intelligence",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Cybercrime Intelligence | Fight Cyber Threats | Intel471",
+      "url": "https://intel471.com/",
+      "status_code": 200,
+      "domain": "intel471.com"
+    },
+    {
+      "title": "Cyber Threat Intelligence Summit 2024 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "ATT&CK Extractor | Tools | | MITRE D3FEND™",
+      "url": "https://d3fend.mitre.org/tools/attack-extractor/?q=%5B%5D",
+      "status_code": 200,
+      "domain": "d3fend.mitre.org"
+    },
+    {
+      "title": "MEE6 - The Discord Bot",
+      "url": "https://mee6.xyz/dashboard/826462475645485096/welcome",
+      "status_code": 200,
+      "domain": "mee6.xyz"
+    },
+    {
+      "title": "YAGPDB - Control panel",
+      "url": "https://yagpdb.xyz/manage/826462475645485096/rolecommands/",
+      "status_code": 200,
+      "domain": "yagpdb.xyz"
+    },
+    {
+      "title": "Cool Symbols & Cool Fonts - Symbols, Emoji & Fonts ✮✢❂✶✧",
+      "url": "https://coolsymbol.com/",
+      "status_code": 200,
+      "domain": "coolsymbol.com"
+    },
+    {
+      "title": "flipperzero-firmware-wPlugins/HowToInstall.md at 420 · RogueMaster/flipperzero-firmware-wPlugins · GitHub",
+      "url": "https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/420/documentation/HowToInstall.md",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - UberGuidoZ/Flipper: Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - RocketGod-git/Flipper_Zero: My SD Drive for Flipper Zero",
+      "url": "https://github.com/RocketGod-git/Flipper_Zero",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Twitterfall (Twitter)",
+      "url": "https://twitterfall.com/",
+      "status_code": 200,
+      "domain": "twitterfall.com"
+    },
+    {
+      "title": "OneMillionTweetMap (Twitter)",
+      "url": "https://onemilliontweetmap.com/?center=25.505,-0.09&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1",
+      "status_code": 200,
+      "domain": "onemilliontweetmap.com"
+    },
+    {
+      "title": "OmniSci Tweetmap (Twitter)",
+      "url": "https://www.omnisci.com/demos/tweetmap/",
+      "status_code": 200,
+      "domain": "www.omnisci.com"
+    },
+    {
+      "title": "Facebook Live Video Search (Modify search location)",
+      "url": "https://www.facebook.com/search/videos/?q=Sydney&epa=FILTERS&filters=eyJ2aWRlb3Nfc291cmNlIjoie1wibmFtZVwiOlwidmlkZW9zX2xpdmVcIixcImFyZ3NcIjpcIlwifSJ9",
+      "status_code": 200,
+      "domain": "www.facebook.com"
+    },
+    {
+      "title": "SnapChat Activity Map (SnapChat)",
+      "url": "https://map.snapchat.com/@-33.867100,151.207000,12.00z",
+      "status_code": 200,
+      "domain": "map.snapchat.com"
+    },
+    {
+      "title": "Flickr Activity Map (Flickr)",
+      "url": "https://www.flickr.com/map",
+      "status_code": 200,
+      "domain": "www.flickr.com"
+    },
+    {
+      "title": "Flikr Current Location",
+      "url": "https://current-location.com/",
+      "status_code": 200,
+      "domain": "current-location.com"
+    },
+    {
+      "title": "Google NEAR Keyword  Sample (Google)",
+      "url": "https://www.google.com.au/search?q=cowboy+boots+AND+near+sydney&safe=strict&glp=1&adtest=on&tci=g%3A2036&uule=w+CAIQICIJQXVzdHJhbGlh&adtest-useragent=Mozilla%2F5.0+%28Linux%3B+U%3B+Android-4.0.3%3B+en-us%3B+Xoom+Build%2FIML77%29+AppleWebKit%2F535.7+%28KHTML%2C+like+Gecko%29+CrMo%2F16.0.912.75+Safari%2F535.7&oq=cowboy+boots+AND+near+sydney&gs_l=heirloom-serp.3...3525.3898.0.4005.6.2.0.3.0.0.171.301.0j2.2.0....0...1ac.1.34.heirloom-serp..5.1.130.fun-5TipiJM",
+      "status_code": 200,
+      "domain": "www.google.com.au"
+    },
+    {
+      "title": "Global Railway Map Reference",
+      "url": "https://www.openrailwaymap.org/",
+      "status_code": 200,
+      "domain": "www.openrailwaymap.org"
+    },
+    {
+      "title": "Mini Tokyo 3D",
+      "url": "https://minitokyo3d.com/",
+      "status_code": 200,
+      "domain": "minitokyo3d.com"
+    },
+    {
+      "title": "OpenStreetCam",
+      "url": "https://openstreetcam.org/map/@40.73112880602221,-73.99618148803712,12z",
+      "status_code": 200,
+      "domain": "openstreetcam.org"
+    },
+    {
+      "title": "Live Network of Webcams and Streaming Video Cameras - EarthCam",
+      "url": "https://www.earthcam.com/network/map.php",
+      "status_code": 200,
+      "domain": "www.earthcam.com"
+    },
+    {
+      "title": "Webcam Map",
+      "url": "https://worldcam.eu/map/australia-oceania#14/-33.86082983873439/151.1986541748047",
+      "status_code": 200,
+      "domain": "worldcam.eu"
+    },
+    {
+      "title": "Windy: Webcams",
+      "url": "https://www.windy.com/-Webcams/webcams?-33.859,151.200,5",
+      "status_code": 200,
+      "domain": "www.windy.com"
+    },
+    {
+      "title": "site:insecam.org \"location\" - Google Search",
+      "url": "https://www.google.com/search?client=ubuntu&channel=fs&q=site%3Ainsecam.org+%22location%22&ie=utf-8&oe=utf-8",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "Google AND/OR Search (Google)",
+      "url": "https://www.google.com/search?source=hp&ei=_1jhW5-UDde89QOi5oaABw&q=this+AND+that+OR+those&btnK=Google+Search&oq=this+AND+that+OR+those&gs_l=psy-ab.3...3527.8869..9000...0.0..0.312.3393.0j11j5j1....2..0....1..gws-wiz.......0j0i131j0i3j0i10.wQjJDQZpgrE",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "Google Alerts",
+      "url": "https://www.google.com.au/alerts",
+      "status_code": 200,
+      "domain": "www.google.com.au"
+    },
+    {
+      "title": "Alert Service (Surface Web & Twitter)",
+      "url": "https://www.talkwalker.com/alerts",
+      "status_code": 200,
+      "domain": "www.talkwalker.com"
+    },
+    {
+      "title": "Free RSS Reader",
+      "url": "https://feedreader.com/",
+      "status_code": 200,
+      "domain": "feedreader.com"
+    },
+    {
+      "title": "Disaster Alert",
+      "url": "https://disasteralert.pdc.org/disasteralert/",
+      "status_code": 200,
+      "domain": "disasteralert.pdc.org"
+    },
+    {
+      "title": "GDACS - Global Disaster Alerting Coordination System",
+      "url": "https://gdacs.org/",
+      "status_code": 200,
+      "domain": "gdacs.org"
+    },
+    {
+      "title": "MapChecking - Crowd size estimator",
+      "url": "https://www.mapchecking.com/#48.8629816,2.2871467;48.8628097,2.2868619;48.8626608,2.2872267;48.8628700,2.2875427;2.5;48.8628950,2.2869780,18",
+      "status_code": 200,
+      "domain": "www.mapchecking.com"
+    },
+    {
+      "title": "Social Media Metrics (navigate to slide 4)",
+      "url": "https://www.slideshare.net/DataReportal/digital-2019-iraq-january-2019-v01",
+      "status_code": 200,
+      "domain": "www.slideshare.net"
+    },
+    {
+      "title": "12. High Activity Zones (Twitter)",
+      "url": "https://onemilliontweetmap.com/?center=7.18810087117902,59.94140625000001&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1",
+      "status_code": 200,
+      "domain": "onemilliontweetmap.com"
+    },
+    {
+      "title": "13. High Activity Zones (Snapchat)",
+      "url": "https://map.snapchat.com/@-33.815900,151.091000,12.00z",
+      "status_code": 200,
+      "domain": "map.snapchat.com"
+    },
+    {
+      "title": "14. High Activity Zones (Flikr)",
+      "url": "https://www.flickr.com/map/#",
+      "status_code": 200,
+      "domain": "www.flickr.com"
+    },
+    {
+      "title": "SMAT",
+      "url": "https://www.smat-app.com/timeline",
+      "status_code": 200,
+      "domain": "www.smat-app.com"
+    },
+    {
+      "title": "19. Crime Index by Country",
+      "url": "https://www.numbeo.com/crime/rankings_by_country.jsp",
+      "status_code": 200,
+      "domain": "www.numbeo.com"
+    },
+    {
+      "title": "21. Violent Crime Acvitiy by Country",
+      "url": "https://www.nationmaster.com/country-info/stats/Crime/Violent-crime/Murder-rate",
+      "status_code": 200,
+      "domain": "www.nationmaster.com"
+    },
+    {
+      "title": "24. Group Linkages & Events",
+      "url": "http://web.stanford.edu/group/mappingmilitants/cgi-bin/",
+      "status_code": 200,
+      "domain": "web.stanford.edu"
+    },
+    {
+      "title": "UCDP - Uppsala Conflict Data Program",
+      "url": "https://ucdp.uu.se/exploratory",
+      "status_code": 200,
+      "domain": "ucdp.uu.se"
+    },
+    {
+      "title": "Terrorist Attacks",
+      "url": "https://storymaps.esri.com/stories/terrorist-attacks/",
+      "status_code": 200,
+      "domain": "storymaps.esri.com"
+    },
+    {
+      "title": "Coronavirus 2019-nCoV",
+      "url": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#",
+      "status_code": 200,
+      "domain": "gisanddata.maps.arcgis.com"
+    },
+    {
+      "title": "Flu & Ebola Map | Virus & Contagious Disease Surveillance",
+      "url": "https://www.healthmap.org/en/",
+      "status_code": 200,
+      "domain": "www.healthmap.org"
+    },
+    {
+      "title": "Counter Human Trafficking Organisations Map",
+      "url": "http://www.globalmodernslavery.org/",
+      "status_code": 200,
+      "domain": "www.globalmodernslavery.org"
+    },
+    {
+      "title": "Drug Trade Insight (South America)",
+      "url": "https://www.insightcrime.org/countries/",
+      "status_code": 200,
+      "domain": "www.insightcrime.org"
+    },
+    {
+      "title": "2. Discord GlobalNews.Watch",
+      "url": "https://discordapp.com/invite/5pmK4TU",
+      "status_code": 200,
+      "domain": "discordapp.com"
+    },
+    {
+      "title": "Spoonbill (Twitter Account Changes)",
+      "url": "https://spoonbill.io/",
+      "status_code": 200,
+      "domain": "spoonbill.io"
+    },
+    {
+      "title": "TruthNest - Twitter User Analysis",
+      "url": "https://app.truthnest.com/",
+      "status_code": 200,
+      "domain": "app.truthnest.com"
+    },
+    {
+      "title": "Instagram Person Search (change \"person\" for name)",
+      "url": "https://www.google.com/search?client=ubuntu&hs=CzK&channel=fs&ei=Q1rhW9yIDI27rQHr_bDACw&q=site%3Ainstagram.com+%22person%22&oq=site%3Ainstagram.com+%22person%22&gs_l=psy-ab.3...4194.4916..5259...0.0..0.329.1218.0j4j1j1......0....1..gws-wiz.CPTTLh3l4Bk",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "Export Comments to Excel Free - EXPORTCOMMENTS.COM",
+      "url": "https://exportcomments.com/#",
+      "status_code": 200,
+      "domain": "exportcomments.com"
+    },
+    {
+      "title": "Foursquare Search",
+      "url": "https://foursquare.com/search",
+      "status_code": 200,
+      "domain": "foursquare.com"
+    },
+    {
+      "title": "Telegram Search (Telegago)",
+      "url": "https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0",
+      "status_code": 200,
+      "domain": "cse.google.com"
+    },
+    {
+      "title": "Home | Lyzem.com",
+      "url": "https://lyzem.com/",
+      "status_code": 200,
+      "domain": "lyzem.com"
+    },
+    {
+      "title": "Facebook Filter Search",
+      "url": "http://graph.tips/beta/",
+      "status_code": 200,
+      "domain": "graph.tips"
+    },
+    {
+      "title": "Pipl - People Search",
+      "url": "https://pipl.com/",
+      "status_code": 200,
+      "domain": "pipl.com"
+    },
+    {
+      "title": "ZoomInfo's database",
+      "url": "https://www.zoominfo.com/s/search",
+      "status_code": 200,
+      "domain": "www.zoominfo.com"
+    },
+    {
+      "title": "Social Search (6 SM Platforms)",
+      "url": "https://www.social-searcher.com/google-social-search/?q=person&fb=on&tw=on&gp=on&in=on&li=on&pi=on",
+      "status_code": 200,
+      "domain": "www.social-searcher.com"
+    },
+    {
+      "title": "Webmii",
+      "url": "https://webmii.com/",
+      "status_code": 200,
+      "domain": "webmii.com"
+    },
+    {
+      "title": "PeekYou - People Search Made Easy",
+      "url": "https://www.peekyou.com/",
+      "status_code": 200,
+      "domain": "www.peekyou.com"
+    },
+    {
+      "title": "Google Reverse Image Search",
+      "url": "https://images.google.com/",
+      "status_code": 200,
+      "domain": "images.google.com"
+    },
+    {
+      "title": "Yandex",
+      "url": "https://yandex.ru/images/?rdrnd=892501&redircnt=1551245317.1",
+      "status_code": 200,
+      "domain": "yandex.ru"
+    },
+    {
+      "title": "Bing Image Feed",
+      "url": "http://www.bing.com/images/discover?FORM=ILPMFT",
+      "status_code": 200,
+      "domain": "www.bing.com"
+    },
+    {
+      "title": "Plaghunter.com",
+      "url": "https://www.plaghunter.com/",
+      "status_code": 200,
+      "domain": "www.plaghunter.com"
+    },
+    {
+      "title": "Pl@ntNet Identify",
+      "url": "https://identify.plantnet.org/",
+      "status_code": 200,
+      "domain": "identify.plantnet.org"
+    },
+    {
+      "title": "eBird - Discover a new world of birding...",
+      "url": "https://ebird.org/home",
+      "status_code": 200,
+      "domain": "ebird.org"
+    },
+    {
+      "title": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+      "url": "https://haveibeenpwned.com/",
+      "status_code": 200,
+      "domain": "haveibeenpwned.com"
+    },
+    {
+      "title": "Google Custom Search",
+      "url": "http://cse.google.co.uk/cse?cof=CX:Documents%2520-%2520Formats;&cx=009462381166450434430:nudphlkt3p4&num=100&ei=TgKvWJLJCamUgAaP1Y2IBA",
+      "status_code": 200,
+      "domain": "cse.google.co.uk"
+    },
+    {
+      "title": "FTP Search (Change \"searchterm\" in search box)",
+      "url": "https://www.google.com/search?num=100&newwindow=1&safe=off&client=firefox-a&hl=en&rls=org.mozilla%3Aen-US%3Aofficial&ei=Ql7hW7LIDMmv9QPm6o6YDQ&q=inurl%3Aftp+-inurl%3A%28http%7Chttps%29+searchterm&oq=inurl%3Aftp+-inurl%3A%28http%7Chttps%29+searchterm&gs_l=psy-ab.3...2358.3764..3896...0.0..0.226.1595.0j8j2......0....1..gws-wiz.Q7cKYS1AATI",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "Simple Email Reputation",
+      "url": "https://emailrep.io/",
+      "status_code": 200,
+      "domain": "emailrep.io"
+    },
+    {
+      "title": "Hunter.io (Email Address Finder)",
+      "url": "https://hunter.io/",
+      "status_code": 200,
+      "domain": "hunter.io"
+    },
+    {
+      "title": "Blockchair — Universal blockchain explorer and search engine",
+      "url": "https://blockchair.com/",
+      "status_code": 200,
+      "domain": "blockchair.com"
+    },
+    {
+      "title": "daily court lists",
+      "url": "https://web.archive.org/web/20200306131224/https://www.criminal-court-records.com.au/daily-court-lists.html",
+      "status_code": 200,
+      "domain": "web.archive.org"
+    },
+    {
+      "title": "search (@search@gab.com) | gab.com - Gab Social",
+      "url": "https://gab.com/search",
+      "status_code": 200,
+      "domain": "gab.com"
+    },
+    {
+      "title": "Deck for Reddit",
+      "url": "https://rdddeck.com/",
+      "status_code": 200,
+      "domain": "rdddeck.com"
+    },
+    {
+      "title": "reddit visualization - YASIV",
+      "url": "http://yasiv.com/reddit",
+      "status_code": 200,
+      "domain": "yasiv.com"
+    },
+    {
+      "title": "CANADA - Border Services",
+      "url": "https://www.cbsa-asfc.gc.ca/menu-eng.html",
+      "status_code": 200,
+      "domain": "www.cbsa-asfc.gc.ca"
+    },
+    {
+      "title": "CANADA - Corporates",
+      "url": "https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html",
+      "status_code": 200,
+      "domain": "www.ic.gc.ca"
+    },
+    {
+      "title": "CYPRUS",
+      "url": "https://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer",
+      "status_code": 200,
+      "domain": "eservices.dls.moi.gov.cy"
+    },
+    {
+      "title": "CYPRUS - Offshore Companies",
+      "url": "https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?sc=0&lang=EN",
+      "status_code": 200,
+      "domain": "efiling.drcor.mcit.gov.cy"
+    },
+    {
+      "title": "DENMARK - Official Buildings",
+      "url": "https://ois.dk/",
+      "status_code": 200,
+      "domain": "ois.dk"
+    },
+    {
+      "title": "DENMARK - Ownership of house or car",
+      "url": "https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml",
+      "status_code": 200,
+      "domain": "www.tinglysning.dk"
+    },
+    {
+      "title": "DENMARK - Properties for sale",
+      "url": "https://www.boligsiden.dk/",
+      "status_code": 200,
+      "domain": "www.boligsiden.dk"
+    },
+    {
+      "title": "ESTONIA",
+      "url": "http://teatmik.ee/en/personlegal/14144085-Asicvault-O%C3%9C",
+      "status_code": 200,
+      "domain": "teatmik.ee"
+    },
+    {
+      "title": "FRANCE",
+      "url": "http://societe.com/",
+      "status_code": 200,
+      "domain": "societe.com"
+    },
+    {
+      "title": "NORWAY - 1881",
+      "url": "https://www.1881.no/",
+      "status_code": 200,
+      "domain": "www.1881.no"
+    },
+    {
+      "title": "NORWAY - All registered businesses/entities",
+      "url": "https://www.brreg.no/",
+      "status_code": 200,
+      "domain": "www.brreg.no"
+    },
+    {
+      "title": "NORWAY - Proff - Business site, find info about companies, key persons, accounting info etc:",
+      "url": "https://www.proff.no/",
+      "status_code": 200,
+      "domain": "www.proff.no"
+    },
+    {
+      "title": "RUSSIA",
+      "url": "https://egrul.nalog.ru/index.html",
+      "status_code": 200,
+      "domain": "egrul.nalog.ru"
+    },
+    {
+      "title": "SWEDEN",
+      "url": "http://www.allabolag.se/",
+      "status_code": 200,
+      "domain": "www.allabolag.se"
+    },
+    {
+      "title": "SWEDEN - Find person",
+      "url": "http://www.hitta.se/",
+      "status_code": 200,
+      "domain": "www.hitta.se"
+    },
+    {
+      "title": "Cantonal company search, Commercial registry office of Canton Ticino",
+      "url": "https://ti.chregister.ch/cr-portal/suche/suche.xhtml",
+      "status_code": 200,
+      "domain": "ti.chregister.ch"
+    },
+    {
+      "title": "Moneyhouse - Commercial register and business information",
+      "url": "https://www.moneyhouse.ch/en/",
+      "status_code": 200,
+      "domain": "www.moneyhouse.ch"
+    },
+    {
+      "title": "UNITED KINGDOM",
+      "url": "http://beta.companieshouse.gov.uk/",
+      "status_code": 200,
+      "domain": "beta.companieshouse.gov.uk"
+    },
+    {
+      "title": "British Phonebook",
+      "url": "http://www.britishphonebook.com/",
+      "status_code": 200,
+      "domain": "www.britishphonebook.com"
+    },
+    {
+      "title": "USA - Public Records",
+      "url": "https://publicrecords.onlinesearches.com/",
+      "status_code": 200,
+      "domain": "publicrecords.onlinesearches.com"
+    },
+    {
+      "title": "USA - Black Book Online",
+      "url": "https://www.blackbookonline.info/USA-counties.aspx",
+      "status_code": 200,
+      "domain": "www.blackbookonline.info"
+    },
+    {
+      "title": "USA - Biznar",
+      "url": "https://biznar.com/biznar/desktop/en/search.html",
+      "status_code": 200,
+      "domain": "biznar.com"
+    },
+    {
+      "title": "Australia Business Directory",
+      "url": "https://au.companiesdb.net/",
+      "status_code": 200,
+      "domain": "au.companiesdb.net"
+    },
+    {
+      "title": "ASIC Home | ASIC - Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au/",
+      "status_code": 200,
+      "domain": "asic.gov.au"
+    },
+    {
+      "title": "Analysis of Twitter Accounts",
+      "url": "https://accountanalysis.lucahammer.com/",
+      "status_code": 200,
+      "domain": "accountanalysis.lucahammer.com"
+    },
+    {
+      "title": "Facebook Mutual Friends (Modify Source UID & Node in URL)",
+      "url": "https://www.facebook.com/browse/mutual_friends/?uid=4&node=5",
+      "status_code": 200,
+      "domain": "www.facebook.com"
+    },
+    {
+      "title": "DataVis by OSINT Combine",
+      "url": "https://osintcombine.tools/#",
+      "status_code": 200,
+      "domain": "osintcombine.tools"
+    },
+    {
+      "title": "Polinode - Powerful Network Analysis in the Cloud",
+      "url": "https://polinode.com/",
+      "status_code": 200,
+      "domain": "polinode.com"
+    },
+    {
+      "title": "2. Google Advanced Search (Google)",
+      "url": "https://www.google.com/advanced_search",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "LinkedIn Hidden Search",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=%20company:%22Company%22&origin=GLOBAL_SEARCH_HEADER",
+      "status_code": 200,
+      "domain": "www.linkedin.com"
+    },
+    {
+      "title": "Marketscreener",
+      "url": "https://www.marketscreener.com/",
+      "status_code": 200,
+      "domain": "www.marketscreener.com"
+    },
+    {
+      "title": "Wallmine",
+      "url": "https://pl.wallmine.com/",
+      "status_code": 200,
+      "domain": "pl.wallmine.com"
+    },
+    {
+      "title": "Skymem - email list",
+      "url": "http://www.skymem.info/",
+      "status_code": 200,
+      "domain": "www.skymem.info"
+    },
+    {
+      "title": "OpenCorporates :: The Open Database Of The Corporate World",
+      "url": "https://opencorporates.com/",
+      "status_code": 200,
+      "domain": "opencorporates.com"
+    },
+    {
+      "title": "Find public records and leaks - OCCRP Aleph",
+      "url": "https://data.occrp.org/",
+      "status_code": 200,
+      "domain": "data.occrp.org"
+    },
+    {
+      "title": "Dun & Bradstreet - Accelerate Growth and Improve Business Performance",
+      "url": "https://www.dnb.com/",
+      "status_code": 200,
+      "domain": "www.dnb.com"
+    },
+    {
+      "title": "OffshoreAlert | Offshore Financial News, Documents & Intelligence",
+      "url": "https://www.offshorealert.com/",
+      "status_code": 200,
+      "domain": "www.offshorealert.com"
+    },
+    {
+      "title": "Multi Platform Keyword Search",
+      "url": "https://www.social-searcher.com/google-social-search/?q=my+brand&fb=on&tw=on&gp=on&in=on&li=on&pi=on",
+      "status_code": 200,
+      "domain": "www.social-searcher.com"
+    },
+    {
+      "title": "Multi Platform Mention Search",
+      "url": "https://www.social-searcher.com/social-buzz/?q5=my+brand",
+      "status_code": 200,
+      "domain": "www.social-searcher.com"
+    },
+    {
+      "title": "Brand24 - Social Media Monitoring Tool",
+      "url": "https://brand24.com/",
+      "status_code": 200,
+      "domain": "brand24.com"
+    },
+    {
+      "title": "Talkwalker Social Search",
+      "url": "https://www.talkwalker.com/social-media-analytics-search",
+      "status_code": 200,
+      "domain": "www.talkwalker.com"
+    },
+    {
+      "title": "Ad Library",
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=AU",
+      "status_code": 200,
+      "domain": "www.facebook.com"
+    },
+    {
+      "title": "Website Information Scan",
+      "url": "https://urlscan.io/",
+      "status_code": 200,
+      "domain": "urlscan.io"
+    },
+    {
+      "title": "IP Address - BrowserLeaks.com",
+      "url": "https://browserleaks.com/ip",
+      "status_code": 200,
+      "domain": "browserleaks.com"
+    },
+    {
+      "title": "Whois domaintools.com",
+      "url": "https://www.whois.com/whois/domaintools.com",
+      "status_code": 200,
+      "domain": "www.whois.com"
+    },
+    {
+      "title": "Whois Lookup, Domain Availability & IP Search - DomainTools",
+      "url": "http://whois.domaintools.com/",
+      "status_code": 200,
+      "domain": "whois.domaintools.com"
+    },
+    {
+      "title": "Shodan",
+      "url": "https://www.shodan.io/",
+      "status_code": 200,
+      "domain": "www.shodan.io"
+    },
+    {
+      "title": "Robtex",
+      "url": "https://www.robtex.com/",
+      "status_code": 200,
+      "domain": "www.robtex.com"
+    },
+    {
+      "title": "ViewDNS.info - Your one source for DNS related tools!",
+      "url": "https://viewdns.info/",
+      "status_code": 200,
+      "domain": "viewdns.info"
+    },
+    {
+      "title": "Ahrefs - SEO Tools & Resources To Grow Your Search Traffic",
+      "url": "https://ahrefs.com/",
+      "status_code": 200,
+      "domain": "ahrefs.com"
+    },
+    {
+      "title": "Domain Tools",
+      "url": "https://research.domaintools.com/",
+      "status_code": 200,
+      "domain": "research.domaintools.com"
+    },
+    {
+      "title": "Investigator",
+      "url": "https://abhijithb200.github.io/investigator/",
+      "status_code": 200,
+      "domain": "abhijithb200.github.io"
+    },
+    {
+      "title": "Influence Explorer (Contracts US & Aus)",
+      "url": "https://techinquiry.org/explorer",
+      "status_code": 200,
+      "domain": "techinquiry.org"
+    },
+    {
+      "title": "Datasets - OpenSanctions",
+      "url": "https://opensanctions.org/datasets/",
+      "status_code": 200,
+      "domain": "opensanctions.org"
+    },
+    {
+      "title": "ICIJ Offshore Leaks Database - Find out who’s behind more than 785,000 offshore companies, foundations and trusts from the Panama Papers, the Offshore Leaks, the Bahamas Leaks and the Paradise Papers investigations.",
+      "url": "http://offshoreleaks.icij.org/",
+      "status_code": 200,
+      "domain": "offshoreleaks.icij.org"
+    },
+    {
+      "title": "Peppercat.org — The collaborative World Leaders list",
+      "url": "https://peppercat.org/",
+      "status_code": 200,
+      "domain": "peppercat.org"
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://www.google.com/maps",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "Bing Maps",
+      "url": "https://www.bing.com/maps",
+      "status_code": 200,
+      "domain": "www.bing.com"
+    },
+    {
+      "title": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/#map=5/-28.153/133.275",
+      "status_code": 200,
+      "domain": "www.openstreetmap.org"
+    },
+    {
+      "title": "Dual Maps - Create Google Maps, Street View and Bing Maps",
+      "url": "https://www.mapchannels.com/DualMaps.aspx",
+      "status_code": 200,
+      "domain": "www.mapchannels.com"
+    },
+    {
+      "title": "My Maps –  Google Maps",
+      "url": "https://www.google.com/maps/about/mymaps/",
+      "status_code": 200,
+      "domain": "www.google.com"
+    },
+    {
+      "title": "Mapbox Studio",
+      "url": "https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/",
+      "status_code": 200,
+      "domain": "account.mapbox.com"
+    },
+    {
+      "title": "Free Map Tools",
+      "url": "https://www.freemaptools.com/",
+      "status_code": 200,
+      "domain": "www.freemaptools.com"
+    },
+    {
+      "title": "Wayback Imagery",
+      "url": "http://livingatlas.arcgis.com/wayback/",
+      "status_code": 200,
+      "domain": "livingatlas.arcgis.com"
+    },
+    {
+      "title": "Tuggerah NSW 2259, Australia. - Land Viewer | EOS",
+      "url": "https://eos.com/landviewer/?lat=-33.60109&lng=151.21023&z=11",
+      "status_code": 200,
+      "domain": "eos.com"
+    },
+    {
+      "title": "Soar | Discover your Earth",
+      "url": "https://soar.earth/",
+      "status_code": 200,
+      "domain": "soar.earth"
+    },
+    {
+      "title": "25 Satellite Maps To See Earth in New Ways [2020] - GIS Geography",
+      "url": "https://gisgeography.com/satellite-maps/",
+      "status_code": 200,
+      "domain": "gisgeography.com"
+    },
+    {
+      "title": "geojson.io",
+      "url": "https://geojson.io/#map=2/-18.3/161.0",
+      "status_code": 200,
+      "domain": "geojson.io"
+    },
+    {
+      "title": "Sun Calc - Make an approximation of the time of the day using shadow direction",
+      "url": "http://suncalc.net/",
+      "status_code": 200,
+      "domain": "suncalc.net"
+    },
+    {
+      "title": "overpass turbo",
+      "url": "https://overpass-turbo.eu/",
+      "status_code": 200,
+      "domain": "overpass-turbo.eu"
+    },
+    {
+      "title": "TRAVELwithDRONE - Aerial Videos Database",
+      "url": "https://travelwithdrone.com/",
+      "status_code": 200,
+      "domain": "travelwithdrone.com"
+    },
+    {
+      "title": "World's Air Pollution: Real-time Air Quality Index",
+      "url": "https://waqi.info/",
+      "status_code": 200,
+      "domain": "waqi.info"
+    },
+    {
+      "title": "Tool Library 🛰 Your geospatial intelligence tool belt for digital investigations",
+      "url": "https://github.com/cartographia/geospatial-intelligence-library",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Cloud Vision API  |  Image Analysis",
+      "url": "https://cloud.google.com/vision/docs/drag-and-drop",
+      "status_code": 200,
+      "domain": "cloud.google.com"
+    },
+    {
+      "title": "yEd Live - Online Diagram Tool",
+      "url": "https://www.yworks.com/yed-live/",
+      "status_code": 200,
+      "domain": "www.yworks.com"
+    },
+    {
+      "title": "Auto Graph Datasets",
+      "url": "http://app.rawgraphs.io/",
+      "status_code": 200,
+      "domain": "app.rawgraphs.io"
+    },
+    {
+      "title": "Data Visualisation Tool",
+      "url": "https://databasic.io/en/",
+      "status_code": 200,
+      "domain": "databasic.io"
+    },
+    {
+      "title": "Create Timeline Visualisations",
+      "url": "https://timeline.knightlab.com/",
+      "status_code": 200,
+      "domain": "timeline.knightlab.com"
+    },
+    {
+      "title": "Create Storymaps",
+      "url": "https://storymap.knightlab.com/",
+      "status_code": 200,
+      "domain": "storymap.knightlab.com"
+    },
+    {
+      "title": "Flowchart Maker & Online Diagram Tool",
+      "url": "https://www.draw.io/",
+      "status_code": 200,
+      "domain": "www.draw.io"
+    },
+    {
+      "title": "Website Screenshot Generator & API",
+      "url": "http://www.page2images.com/",
+      "status_code": 200,
+      "domain": "www.page2images.com"
+    },
+    {
+      "title": "Free online timeline maker",
+      "url": "https://time.graphics/",
+      "status_code": 200,
+      "domain": "time.graphics"
+    },
+    {
+      "title": "Glossary | Counter Extremism Project",
+      "url": "https://www.counterextremism.com/glossary",
+      "status_code": 200,
+      "domain": "www.counterextremism.com"
+    },
+    {
+      "title": "FastEmoji Emojis, Emoticons, Smileys | fastemoji.com",
+      "url": "https://www.fastemoji.com/",
+      "status_code": 200,
+      "domain": "www.fastemoji.com"
+    },
+    {
+      "title": "Simple Collaborative Mind Maps & Flow Charts - Coggle",
+      "url": "https://coggle.it/",
+      "status_code": 200,
+      "domain": "coggle.it"
+    },
+    {
+      "title": "OSINT.Link Resource Portal",
+      "url": "http://osint.link/",
+      "status_code": 200,
+      "domain": "osint.link"
+    },
+    {
+      "title": "jivoi/awesome-osint: A curated list of amazingly awesome OSINT",
+      "url": "https://github.com/jivoi/awesome-osint",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "✉ Guerrilla Mail - Disposable Temporary E-Mail Address",
+      "url": "http://www.guerrillamail.com/",
+      "status_code": 200,
+      "domain": "www.guerrillamail.com"
+    },
+    {
+      "title": "Fake Mail Generator - Free temporary email addresses",
+      "url": "http://www.fakemailgenerator.com/#/gustr.com/Casly1981/",
+      "status_code": 200,
+      "domain": "www.fakemailgenerator.com"
+    },
+    {
+      "title": "Twilio | Try Twilio Free",
+      "url": "https://www.twilio.com/try-twilio",
+      "status_code": 200,
+      "domain": "www.twilio.com"
+    },
+    {
+      "title": "Top 10 Free Sites to Receive SMS Online Without Real Phone Number- dr.fone",
+      "url": "https://drfone.wondershare.com/message/receive-message-online.html",
+      "status_code": 200,
+      "domain": "drfone.wondershare.com"
+    },
+    {
+      "title": "FREE mobile numbers to receive text messages online | mytrashmobile.com",
+      "url": "https://www.mytrashmobile.com/numbers",
+      "status_code": 200,
+      "domain": "www.mytrashmobile.com"
+    },
+    {
+      "title": "TalkU - Free Phone Calls, Texts & Walkie Talkie, PTT",
+      "url": "https://www.talkyou.me/en/index.html",
+      "status_code": 200,
+      "domain": "www.talkyou.me"
+    },
+    {
+      "title": "Fake Person Generator | User Identity, Account and Profile Generator",
+      "url": "https://www.fakepersongenerator.com/Index/generate",
+      "status_code": 200,
+      "domain": "www.fakepersongenerator.com"
+    },
+    {
+      "title": "Full Contact Information Generator",
+      "url": "https://names.igopaygo.com/people/full-contact",
+      "status_code": 200,
+      "domain": "names.igopaygo.com"
+    },
+    {
+      "title": "This Person Does Not Exist",
+      "url": "https://thispersondoesnotexist.com/",
+      "status_code": 200,
+      "domain": "thispersondoesnotexist.com"
+    },
+    {
+      "title": "This resume does not exist",
+      "url": "https://thisresumedoesnotexist.com/",
+      "status_code": 200,
+      "domain": "thisresumedoesnotexist.com"
+    },
+    {
+      "title": "Character Biography Generator",
+      "url": "https://www.character-generator.org.uk/bio/",
+      "status_code": 200,
+      "domain": "www.character-generator.org.uk"
+    },
+    {
+      "title": "Cyber Threat Hunting: Identify and Hunt Down Intruders - YouTube",
+      "url": "https://www.youtube.com/watch?v=60pyxA0U9EQ",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "GitHub - 0x4D31/awesome-threat-detection: A curated list of awesome threat detection and hunting resources",
+      "url": "https://github.com/0x4D31/awesome-threat-detection",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "#threathuntingsummit - YouTube",
+      "url": "https://www.youtube.com/hashtag/threathuntingsummit",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "YARA - The pattern matching swiss knife for malware researchers",
+      "url": "https://virustotal.github.io/yara/",
+      "status_code": 200,
+      "domain": "virustotal.github.io"
+    },
+    {
+      "title": "Derek Rook / CTF Resources · GitLab",
+      "url": "https://gitlab.com/r00k/ctf-resources",
+      "status_code": 200,
+      "domain": "gitlab.com"
+    },
+    {
+      "title": "GitHub - frgnca/AudioDeviceCmdlets: AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows",
+      "url": "https://github.com/frgnca/AudioDeviceCmdlets",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - ufrisk/MemProcFS: The Memory Process File System",
+      "url": "https://github.com/ufrisk/MemProcFS",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "ImageOptim — better Save for Web",
+      "url": "https://imageoptim.com/mac",
+      "status_code": 200,
+      "domain": "imageoptim.com"
+    },
+    {
+      "title": "Penetration Testing Framework 0.59",
+      "url": "http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html",
+      "status_code": 200,
+      "domain": "www.vulnerabilityassessment.co.uk"
+    },
+    {
+      "title": "Making Memories - Using Memory Analysis for Faster Response to User Investigations, Jessica Hyde, Aaron Sparling.pdf",
+      "url": "https://sansorg.egnyte.com/dl/T1uHH6hf7w/",
+      "status_code": 200,
+      "domain": "sansorg.egnyte.com"
+    },
+    {
+      "title": "GitHub - upmasked/number-verifier: Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.",
+      "url": "https://github.com/upmasked/number-verifier",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "How To Index A PDF File As An Elasticsearch Index | ObjectRocket",
+      "url": "https://kb.objectrocket.com/elasticsearch/how-to-index-a-pdf-file-as-an-elasticsearch-index-267",
+      "status_code": 200,
+      "domain": "kb.objectrocket.com"
+    },
+    {
+      "title": "MITRE ATT&CK Defender™ (MAD) ATT&CK® Cyber Threat Intelligence Certification Training | Cybrary",
+      "url": "https://app.cybrary.it/browse/course/mitre-attack-defender-mad-attack-for-cyber-threat-intelligence?queryID=6caab3de148b89426dfd681e95a88007&objectID=55497",
+      "status_code": 200,
+      "domain": "app.cybrary.it"
+    },
+    {
+      "title": "MITRE ATT&CK Defender™ (MAD) ATT&CK® SOC Assessments Certification Training | Cybrary",
+      "url": "https://app.cybrary.it/browse/course/mitre-attack-defender-mad-attack-for-soc-assessments?queryID=0cb4e43006b6b2f1ceaaecba0fe0def1&objectID=55485",
+      "status_code": 200,
+      "domain": "app.cybrary.it"
+    },
+    {
+      "title": "MITRE ATT&CK Defender™ (MAD) ATT&CK® Fundamentals Badge Training | Cybrary",
+      "url": "https://app.cybrary.it/browse/course/mitre-attack-defender-mad-attack-fundamentals/",
+      "status_code": 200,
+      "domain": "app.cybrary.it"
+    },
+    {
+      "title": "Location Search - Discover Geo-tagged Videos - YouTube Geofind",
+      "url": "https://mattw.io/youtube-geofind/location",
+      "status_code": 200,
+      "domain": "mattw.io"
+    },
+    {
+      "title": "OSINT Framework",
+      "url": "https://osintframework.com/",
+      "status_code": 200,
+      "domain": "osintframework.com"
+    },
+    {
+      "title": "#onemilliontweetmap",
+      "url": "https://onemilliontweetmap.com/?center=25.505,-0.09&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1",
+      "status_code": 200,
+      "domain": "onemilliontweetmap.com"
+    },
+    {
+      "title": "OSINT Tools - OSINT Techniques",
+      "url": "https://www.osinttechniques.com/osint-tools.html",
+      "status_code": 200,
+      "domain": "www.osinttechniques.com"
+    },
+    {
+      "title": "OSINT Dojo",
+      "url": "https://www.osintdojo.com/",
+      "status_code": 200,
+      "domain": "www.osintdojo.com"
+    },
+    {
+      "title": "Username Search | Search Dating Sites | Free Email Search",
+      "url": "https://usersearch.org/index.php",
+      "status_code": 200,
+      "domain": "usersearch.org"
+    },
+    {
+      "title": "unfurl",
+      "url": "https://dfir.blog/unfurl/",
+      "status_code": 200,
+      "domain": "dfir.blog"
+    },
+    {
+      "title": "Trace Labs | Search Party",
+      "url": "https://www.tracelabs.org/initiatives/search-party",
+      "status_code": 200,
+      "domain": "www.tracelabs.org"
+    },
+    {
+      "title": "OSINT Dojo",
+      "url": "https://www.osintdojo.com/ranks/",
+      "status_code": 200,
+      "domain": "www.osintdojo.com"
+    },
+    {
+      "title": "Using the Virtual Machine · tracelabs/tlosint-live Wiki · GitHub",
+      "url": "https://github.com/tracelabs/tlosint-live/wiki/Using-the-Virtual-Machine#email",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "DNSdumpster.com - dns recon and research, find and lookup dns records",
+      "url": "https://dnsdumpster.com/",
+      "status_code": 200,
+      "domain": "dnsdumpster.com"
+    },
+    {
+      "title": "Malfrat's OSINT Map",
+      "url": "https://map.malfrats.industries/",
+      "status_code": 200,
+      "domain": "map.malfrats.industries"
+    },
+    {
+      "title": "Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon",
+      "url": "https://www.exploit-db.com/google-hacking-database",
+      "status_code": 200,
+      "domain": "www.exploit-db.com"
+    },
+    {
+      "title": "Paterva Home",
+      "url": "https://www.paterva.com/",
+      "status_code": 200,
+      "domain": "www.paterva.com"
+    },
+    {
+      "title": "Internet Research, Cybercrime Disruption and PCI Security Services | Netcraft",
+      "url": "https://www.netcraft.com/",
+      "status_code": 200,
+      "domain": "www.netcraft.com"
+    },
+    {
+      "title": "Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine",
+      "url": "https://archive.org/",
+      "status_code": 200,
+      "domain": "archive.org"
+    },
+    {
+      "title": "Coding Rooms",
+      "url": "https://app.codingrooms.com/management/courses/6387/classes/8480/assignments",
+      "status_code": 200,
+      "domain": "app.codingrooms.com"
+    },
+    {
+      "title": "main.py - day-1-printing-start - Replit",
+      "url": "https://replit.com/@delaney3/day-1-printing-start#main.py",
+      "status_code": 200,
+      "domain": "replit.com"
+    },
+    {
+      "title": "How to reach matt mitchell privately? | by matt mitchell | Medium",
+      "url": "https://medium.com/@geminiimatt/how-to-reach-me-securely-80d69a5ce38e",
+      "status_code": 200,
+      "domain": "medium.com"
+    },
+    {
+      "title": "Making Memories - Using Memory Analysis for Faster Response to User Investigations, Jessica Hyde, Aaron Sparling.pdf",
+      "url": "https://sansorg.egnyte.com/dl/N8dv5oGsmV/",
+      "status_code": 200,
+      "domain": "sansorg.egnyte.com"
+    },
+    {
+      "title": "Alerting and Detection Strategy Framework | by Palantir | Palantir Blog",
+      "url": "https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2",
+      "status_code": 200,
+      "domain": "blog.palantir.com"
+    },
+    {
+      "title": "CIS Center for Internet Security",
+      "url": "https://www.cisecurity.org/",
+      "status_code": 200,
+      "domain": "www.cisecurity.org"
+    },
+    {
+      "title": "The DFIR Report – Real Intrusions by Real Attackers, The Truth Behind the Intrusion",
+      "url": "https://thedfirreport.com/",
+      "status_code": 200,
+      "domain": "thedfirreport.com"
+    },
+    {
+      "title": "Cisco IOS NetFlow - Cisco",
+      "url": "https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-netflow/index.html",
+      "status_code": 200,
+      "domain": "www.cisco.com"
+    },
+    {
+      "title": "A Simple Explanation of Authenticated Received Chain (ARC)",
+      "url": "https://www.validity.com/blog/how-to-explain-authenticated-received-chain-arc-in-plain-english/",
+      "status_code": 200,
+      "domain": "www.validity.com"
+    },
+    {
+      "title": "PowerSploit/PowerUp.ps1 at master · PowerShellMafia/PowerSploit · GitHub",
+      "url": "https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - GhostPack/Seatbelt: Seatbelt is a C# project that performs a number of security oriented host-survey \"safety checks\" relevant from both offensive and defensive security perspectives.",
+      "url": "https://github.com/GhostPack/Seatbelt",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GTFOBins",
+      "url": "https://gtfobins.github.io/",
+      "status_code": 200,
+      "domain": "gtfobins.github.io"
+    },
+    {
+      "title": "Rapidly modernize your security infrastructure | Microsoft Docs",
+      "url": "https://docs.microsoft.com/en-us/security/compass/security-rapid-modernization-plan",
+      "status_code": 200,
+      "domain": "docs.microsoft.com"
+    },
+    {
+      "title": "Apple’s macOS Ventura | 7 New Security Changes to Be Aware Of - SentinelOne",
+      "url": "https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/",
+      "status_code": 200,
+      "domain": "www.sentinelone.com"
+    },
+    {
+      "title": "Open Cybersecurity Schema Framework · GitHub",
+      "url": "https://github.com/ocsf/",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Autoruns for Windows - Windows Sysinternals | Microsoft Docs",
+      "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns",
+      "status_code": 200,
+      "domain": "docs.microsoft.com"
+    },
+    {
+      "title": "App consent grant investigation | Microsoft Docs",
+      "url": "https://docs.microsoft.com/en-us/security/compass/incident-response-playbook-app-consent",
+      "status_code": 200,
+      "domain": "docs.microsoft.com"
+    },
+    {
+      "title": "Azure Active Directory security operations guide - Microsoft Entra | Microsoft Docs",
+      "url": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction",
+      "status_code": 200,
+      "domain": "docs.microsoft.com"
+    },
+    {
+      "title": "soups15-paper-sundaramurthy.pdf",
+      "url": "https://www.usenix.org/system/files/conference/soups2015/soups15-paper-sundaramurthy.pdf",
+      "status_code": 200,
+      "domain": "www.usenix.org"
+    },
+    {
+      "title": "SANS SEC450/MGT551 Links and Book List - Pastebin.com",
+      "url": "https://pastebin.com/VPmikzTg",
+      "status_code": 200,
+      "domain": "pastebin.com"
+    },
+    {
+      "title": "RegExr: Learn, Build, & Test RegEx",
+      "url": "https://regexr.com/",
+      "status_code": 200,
+      "domain": "regexr.com"
+    },
+    {
+      "title": "GitHub - JPCERTCC/jpcert-yara: JPCERT/CC public YARA rules repository",
+      "url": "https://github.com/JPCERTCC/jpcert-yara",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Uncoder.IO | Universal Sigma Rule Converter for SIEM, EDR, and NTDR",
+      "url": "https://uncoder.io/",
+      "status_code": 200,
+      "domain": "uncoder.io"
+    },
+    {
+      "title": "GitHub - socprime/SigmaUI: SIGMA UI is a free open-source application based on the Elastic stack and Sigma Converter (sigmac)",
+      "url": "https://github.com/socprime/SigmaUI",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - davehull/Kansa: A Powershell incident response framework",
+      "url": "https://github.com/davehull/Kansa",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Google - Site Reliability Engineering",
+      "url": "https://sre.google/sre-book/eliminating-toil/",
+      "status_code": 200,
+      "domain": "sre.google"
+    },
+    {
+      "title": "Better GIAC Testing with Pancakes – tisiphone.net",
+      "url": "https://tisiphone.net/2015/08/18/giac-testing/",
+      "status_code": 200,
+      "domain": "tisiphone.net"
+    },
+    {
+      "title": "Ciphersuite Info",
+      "url": "https://ciphersuite.info/",
+      "status_code": 200,
+      "domain": "ciphersuite.info"
+    },
+    {
+      "title": "Autopsy Training",
+      "url": "https://training.autopsy.com/enrollments",
+      "status_code": 200,
+      "domain": "training.autopsy.com"
+    },
+    {
+      "title": "StackSkills",
+      "url": "https://stackskills.com/",
+      "status_code": 200,
+      "domain": "stackskills.com"
+    },
+    {
+      "title": "CS university Home",
+      "url": "https://crowdstrike.litmos.com/home/dashboard",
+      "status_code": 200,
+      "domain": "crowdstrike.litmos.com"
+    },
+    {
+      "title": "TCM Security, Inc.",
+      "url": "https://academy.tcm-sec.com/",
+      "status_code": 200,
+      "domain": "academy.tcm-sec.com"
+    },
+    {
+      "title": "Overview of NIST SP 800-53 & Its Importance in Information Security",
+      "url": "https://codered.eccouncil.org/courseVideo/the-ultimate-guide-to-nist-sp-800-53-fundamentals-and-control-families?logged=true",
+      "status_code": 200,
+      "domain": "codered.eccouncil.org"
+    },
+    {
+      "title": "Login | EC-Council Learning",
+      "url": "https://codered.eccouncil.org/login?logged=false",
+      "status_code": 200,
+      "domain": "codered.eccouncil.org"
+    },
+    {
+      "title": "TryHackMe | Advent of Cyber 2022",
+      "url": "https://tryhackme.com/room/adventofcyber4",
+      "status_code": 200,
+      "domain": "tryhackme.com"
+    },
+    {
+      "title": "MetaDefender Cloud | Advanced threat prevention and detection",
+      "url": "https://metadefender.opswat.com/",
+      "status_code": 200,
+      "domain": "metadefender.opswat.com"
+    },
+    {
+      "title": "some_malicious_file.bin (MD5: 890A58F200DFFF23165DF9E1B088E58F) - Interactive analysis - ANY.RUN",
+      "url": "https://app.any.run/tasks/a66178de-7596-4a05-945d-704dbf6b3b90/",
+      "status_code": 200,
+      "domain": "app.any.run"
+    },
+    {
+      "title": "Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns",
+      "url": "https://unit42.paloaltonetworks.com/fast-flux-101/",
+      "status_code": 200,
+      "domain": "unit42.paloaltonetworks.com"
+    },
+    {
+      "title": "ssdeep - Fuzzy hashing program",
+      "url": "https://ssdeep-project.github.io/ssdeep/index.html",
+      "status_code": 200,
+      "domain": "ssdeep-project.github.io"
+    },
+    {
+      "title": "MalShare",
+      "url": "https://malshare.com/",
+      "status_code": 200,
+      "domain": "malshare.com"
+    },
+    {
+      "title": "Lab: HCL Basics - KodeKloud",
+      "url": "https://kodekloud.com/topic/lab-hcl-basics-3/?utm_source=udemy&utm_medium=labs&utm_campaign=terraform",
+      "status_code": 200,
+      "domain": "kodekloud.com"
+    },
+    {
+      "title": "0xdf hacks stuff | CTF solutions, malware analysis, home lab development",
+      "url": "https://0xdf.gitlab.io/",
+      "status_code": 200,
+      "domain": "0xdf.gitlab.io"
+    },
+    {
+      "title": "27 People Share The One Cool Internet Or Computer Trick They Know | Thought Catalog",
+      "url": "http://thoughtcatalog.com/charlie-shaw/2014/05/27-people-share-the-one-cool-internet-or-computer-trick-they-know/",
+      "status_code": 200,
+      "domain": "thoughtcatalog.com"
+    },
+    {
+      "title": "Access Token Manipulation - Red Team Notes",
+      "url": "https://dmcxblue.gitbook.io/red-team-notes/privesc/access-token-manipulation",
+      "status_code": 200,
+      "domain": "dmcxblue.gitbook.io"
+    },
+    {
+      "title": "Build Your Forensic Workstation – BlueCapeSecurity",
+      "url": "https://bluecapesecurity.com/build-your-forensic-workstation/",
+      "status_code": 200,
+      "domain": "bluecapesecurity.com"
+    },
+    {
+      "title": "Cheat-Sheets — Malware Archaeology",
+      "url": "https://www.malwarearchaeology.com/cheat-sheets",
+      "status_code": 200,
+      "domain": "www.malwarearchaeology.com"
+    },
+    {
+      "title": "cis76-lab05-simben76.pdf",
+      "url": "https://simms-teach.com/docs/cis76/cis76-lab05-simben76.pdf",
+      "status_code": 200,
+      "domain": "simms-teach.com"
+    },
+    {
+      "title": "CyberChef",
+      "url": "https://gchq.github.io/CyberChef/",
+      "status_code": 200,
+      "domain": "gchq.github.io"
+    },
+    {
+      "title": "Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion",
+      "url": "https://cheatography.com/",
+      "status_code": 200,
+      "domain": "cheatography.com"
+    },
+    {
+      "title": "eVantage: Library",
+      "url": "https://evantage.gilmoreglobal.com/#/",
+      "status_code": 200,
+      "domain": "evantage.gilmoreglobal.com"
+    },
+    {
+      "title": "Explain PowerShell",
+      "url": "https://www.explainpowershell.com/",
+      "status_code": 200,
+      "domain": "www.explainpowershell.com"
+    },
+    {
+      "title": "explainshell.com - match command-line arguments to their help text",
+      "url": "https://explainshell.com/",
+      "status_code": 200,
+      "domain": "explainshell.com"
+    },
+    {
+      "title": "FlipC.org",
+      "url": "https://flipc.org/",
+      "status_code": 200,
+      "domain": "flipc.org"
+    },
+    {
+      "title": "Home - MyIvy",
+      "url": "https://my.ivytech.edu/myivy",
+      "status_code": 200,
+      "domain": "my.ivytech.edu"
+    },
+    {
+      "title": "Home :: List of files by Microsoft®",
+      "url": "https://files.rg-adguard.net/",
+      "status_code": 200,
+      "domain": "files.rg-adguard.net"
+    },
+    {
+      "title": "https://app.letsdefend.io/academy/toc/siem/",
+      "url": "https://app.letsdefend.io/academy/toc/siem/",
+      "status_code": 200,
+      "domain": "app.letsdefend.io"
+    },
+    {
+      "title": "HTID",
+      "url": "http://opensecuritytraining.info/HTID.html",
+      "status_code": 200,
+      "domain": "opensecuritytraining.info"
+    },
+    {
+      "title": "Installing Wine on Mac OS X",
+      "url": "http://www.davidbaumgold.com/tutorials/wine-mac/#part-0",
+      "status_code": 200,
+      "domain": "www.davidbaumgold.com"
+    },
+    {
+      "title": "Interactive Online Malware Analysis Sandbox - ANY.RUN",
+      "url": "https://app.any.run/",
+      "status_code": 200,
+      "domain": "app.any.run"
+    },
+    {
+      "title": "IppSec - Search",
+      "url": "https://ippsec.rocks/",
+      "status_code": 200,
+      "domain": "ippsec.rocks"
+    },
+    {
+      "title": "IppSec - YouTube",
+      "url": "https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "ISO Images",
+      "url": "https://tb.rg-adguard.net/public.php",
+      "status_code": 200,
+      "domain": "tb.rg-adguard.net"
+    },
+    {
+      "title": "IT Interview Questions:What is ARP?",
+      "url": "http://dev.fyicenter.com/Interview-Questions/Information-Technology-IT/IT_Interview_Questions_What_is_ARP_.html",
+      "status_code": 200,
+      "domain": "dev.fyicenter.com"
+    },
+    {
+      "title": "keywords/keywords.txt at master · random-robbie/keywords · GitHub",
+      "url": "https://github.com/random-robbie/keywords/blob/master/keywords.txt",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Learn to Hack",
+      "url": "https://www.hacksplaining.com/",
+      "status_code": 200,
+      "domain": "www.hacksplaining.com"
+    },
+    {
+      "title": "Linux Commands",
+      "url": "http://www.mediacollege.com/linux/command/linux-command.html",
+      "status_code": 200,
+      "domain": "www.mediacollege.com"
+    },
+    {
+      "title": "Mal-Content: Phake Fish?",
+      "url": "https://mal-c0ntent.blogspot.com/2017/03/phake-fish.html?m=1",
+      "status_code": 200,
+      "domain": "mal-c0ntent.blogspot.com"
+    },
+    {
+      "title": "MalAPI.io",
+      "url": "https://malapi.io/",
+      "status_code": 200,
+      "domain": "malapi.io"
+    },
+    {
+      "title": "Microsoft 365 Best Practices Checklists",
+      "url": "https://app.gumroad.com/d/20ad5194147e532fb7e7331779521356",
+      "status_code": 200,
+      "domain": "app.gumroad.com"
+    },
+    {
+      "title": "Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel",
+      "url": "https://www.mockaroo.com/",
+      "status_code": 200,
+      "domain": "www.mockaroo.com"
+    },
+    {
+      "title": "Offliberty - evidence of offline life",
+      "url": "http://offliberty.com/#",
+      "status_code": 200,
+      "domain": "offliberty.com"
+    },
+    {
+      "title": "OverTheWire: Level Goal: Bandit Level 0",
+      "url": "https://overthewire.org/wargames/bandit/bandit0.html",
+      "status_code": 200,
+      "domain": "overthewire.org"
+    },
+    {
+      "title": "Packet sniffers – SecTools Top Network Security Tools",
+      "url": "http://sectools.org/tag/sniffers/",
+      "status_code": 200,
+      "domain": "sectools.org"
+    },
+    {
+      "title": "Pick parts. Build your PC. Compare and share. - PCPartPicker",
+      "url": "https://pcpartpicker.com/",
+      "status_code": 200,
+      "domain": "pcpartpicker.com"
+    },
+    {
+      "title": "Positions - Imply",
+      "url": "https://imply.io/positions?gh_jid=5805951003",
+      "status_code": 200,
+      "domain": "imply.io"
+    },
+    {
+      "title": "ProxFree - Free Web Proxy | Maintain Privacy & Surf Anonymously",
+      "url": "http://www.proxfree.com/",
+      "status_code": 200,
+      "domain": "www.proxfree.com"
+    },
+    {
+      "title": "QPDF - Browse /qpdf/10.4.0 at SourceForge.net",
+      "url": "https://sourceforge.net/projects/qpdf/files/qpdf/10.4.0/",
+      "status_code": 200,
+      "domain": "sourceforge.net"
+    },
+    {
+      "title": "Resume Keywords | Keywords for Resume | Job Keywords",
+      "url": "https://www.mployee.me/keywords#word",
+      "status_code": 200,
+      "domain": "www.mployee.me"
+    },
+    {
+      "title": "SS64 Command line reference",
+      "url": "https://ss64.com/",
+      "status_code": 200,
+      "domain": "ss64.com"
+    },
+    {
+      "title": "Subscription page | EC-Council Learning",
+      "url": "https://codered.eccouncil.org/dashboard/subscription",
+      "status_code": 200,
+      "domain": "codered.eccouncil.org"
+    },
+    {
+      "title": "SuprBay: The PirateBay Forum",
+      "url": "https://pirates-forum.org/index.php",
+      "status_code": 200,
+      "domain": "pirates-forum.org"
+    },
+    {
+      "title": "The Linux Advantage: 5 Websites You Should Head To For Learning Linux",
+      "url": "http://www.makeuseof.com/tag/linux-advantage-5-websites-head-learning-linux/",
+      "status_code": 200,
+      "domain": "www.makeuseof.com"
+    },
+    {
+      "title": "The Web Application Security Consortium / Threat Classification",
+      "url": "http://projects.webappsec.org/w/page/13246978/Threat%20Classification",
+      "status_code": 200,
+      "domain": "projects.webappsec.org"
+    },
+    {
+      "title": "TxtEmNow.com - Send Anonymous Text Messages! FREE! International Numbers Supported!",
+      "url": "http://www.txtemnow.com/index.php",
+      "status_code": 200,
+      "domain": "www.txtemnow.com"
+    },
+    {
+      "title": "Velociraptor Training :: Velociraptor - Digging deeper!",
+      "url": "https://docs.velociraptor.app/training/",
+      "status_code": 200,
+      "domain": "docs.velociraptor.app"
+    },
+    {
+      "title": "Visual Cryptography",
+      "url": "http://www.datagenetics.com/blog/november32013/index.html",
+      "status_code": 200,
+      "domain": "www.datagenetics.com"
+    },
+    {
+      "title": "wonderhowto",
+      "url": "http://www.wonderhowto.com/",
+      "status_code": 200,
+      "domain": "www.wonderhowto.com"
+    },
+    {
+      "title": "VulnVerse",
+      "url": "https://vulnverse.me/",
+      "status_code": 200,
+      "domain": "vulnverse.me"
+    },
+    {
+      "title": "phat-offchain-rollup/TechnicalDetails.md at main · Phala-Network/phat-offchain-rollup · GitHub",
+      "url": "https://github.com/Phala-Network/phat-offchain-rollup/blob/main/TechnicalDetails.md",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "iLovePDF | Online PDF tools for PDF lovers",
+      "url": "https://www.ilovepdf.com/",
+      "status_code": 200,
+      "domain": "www.ilovepdf.com"
+    },
+    {
+      "title": "Network Pinger - Downloads [Freeware]",
+      "url": "http://www.networkpinger.com/en/downloads/",
+      "status_code": 200,
+      "domain": "www.networkpinger.com"
+    },
+    {
+      "title": "MalwareBazaar | Malware sample exchange",
+      "url": "https://bazaar.abuse.ch/",
+      "status_code": 200,
+      "domain": "bazaar.abuse.ch"
+    },
+    {
+      "title": "URLhaus | Malware URL exchange",
+      "url": "https://urlhaus.abuse.ch/",
+      "status_code": 200,
+      "domain": "urlhaus.abuse.ch"
+    },
+    {
+      "title": "ThreatFox | Share Indicators Of Compromise (IOCs)",
+      "url": "https://threatfox.abuse.ch/",
+      "status_code": 200,
+      "domain": "threatfox.abuse.ch"
+    },
+    {
+      "title": "DeHashed — #FreeThePassword",
+      "url": "https://dehashed.com/",
+      "status_code": 200,
+      "domain": "dehashed.com"
+    },
+    {
+      "title": "MalwareBazaar | SHA256 3b045bfaf8e46d7f1bb267521ecff5ed8c21d9b41ed0c39c0801a49985f4f108",
+      "url": "https://bazaar.abuse.ch/sample/3b045bfaf8e46d7f1bb267521ecff5ed8c21d9b41ed0c39c0801a49985f4f108/",
+      "status_code": 200,
+      "domain": "bazaar.abuse.ch"
+    },
+    {
+      "title": "Forensically, free online photo forensics tools - 29a.ch",
+      "url": "https://29a.ch/photo-forensics/#forensic-magnifier",
+      "status_code": 200,
+      "domain": "29a.ch"
+    },
+    {
+      "title": "BuiltWith Technology Lookup",
+      "url": "https://builtwith.com/",
+      "status_code": 200,
+      "domain": "builtwith.com"
+    },
+    {
+      "title": "Threat Modeling: The First Step on Your Privacy Journey - Privacy Guides",
+      "url": "https://www.privacyguides.org/en/basics/threat-modeling/#who-do-i-want-to-protect-it-from",
+      "status_code": 200,
+      "domain": "www.privacyguides.org"
+    },
+    {
+      "title": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+      "url": "https://roadmap.sh/cyber-security",
+      "status_code": 200,
+      "domain": "roadmap.sh"
+    },
+    {
+      "title": "FREE Websites for Japanese Reading Practice (At Every Level) - Team Japanese",
+      "url": "https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/",
+      "status_code": 200,
+      "domain": "teamjapanese.com"
+    },
+    {
+      "title": "Learn Japanese",
+      "url": "https://www.reddit.com/r/LearnJapanese/",
+      "status_code": 200,
+      "domain": "www.reddit.com"
+    },
+    {
+      "title": "Worksheets – ペラペラ ドリームス",
+      "url": "https://peraperadreams.com/worksheets/",
+      "status_code": 200,
+      "domain": "peraperadreams.com"
+    },
+    {
+      "title": "Counting to 100 Ver2",
+      "url": "https://peraperadreamsblog.files.wordpress.com/2019/09/counting-to-100-ver2.pdf",
+      "status_code": 200,
+      "domain": "peraperadreamsblog.files.wordpress.com"
+    },
+    {
+      "title": "WaniKani / Reviews",
+      "url": "https://www.wanikani.com/review",
+      "status_code": 200,
+      "domain": "www.wanikani.com"
+    },
+    {
+      "title": "Nihongo Shooter",
+      "url": "https://ubershmekel.github.io/nihongo-shooter/",
+      "status_code": 200,
+      "domain": "ubershmekel.github.io"
+    },
+    {
+      "title": "Sentence Search",
+      "url": "https://sentencesearch.neocities.org/",
+      "status_code": 200,
+      "domain": "sentencesearch.neocities.org"
+    },
+    {
+      "title": "core6000",
+      "url": "https://core6000.neocities.org/",
+      "status_code": 200,
+      "domain": "core6000.neocities.org"
+    },
+    {
+      "title": "Vocabulary Lists - Japanese Dictionary Tangorin",
+      "url": "https://tangorin.com/vocabulary",
+      "status_code": 200,
+      "domain": "tangorin.com"
+    },
+    {
+      "title": "Japanese-Online.com | Home",
+      "url": "http://www.japanese-online.com/",
+      "status_code": 200,
+      "domain": "www.japanese-online.com"
+    },
+    {
+      "title": "Courses - Memrise",
+      "url": "http://www.memrise.com/courses/english/",
+      "status_code": 200,
+      "domain": "www.memrise.com"
+    },
+    {
+      "title": "Insanity - Google Drive",
+      "url": "https://drive.google.com/drive/folders/1REvOQCJ7UTWHrvusWqW-B_sKLDFD5St_",
+      "status_code": 200,
+      "domain": "drive.google.com"
+    },
+    {
+      "title": "Thonny, Python IDE for beginners",
+      "url": "https://thonny.org/",
+      "status_code": 200,
+      "domain": "thonny.org"
+    },
+    {
+      "title": "GitHub - ForrestKnight/open-source-cs-python: Video discussing this curriculum:",
+      "url": "https://github.com/ForrestKnight/open-source-cs-python",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Everything You Need to Know About Python Arrays",
+      "url": "https://www.simplilearn.com/tutorials/python-tutorial/python-arrays",
+      "status_code": 200,
+      "domain": "www.simplilearn.com"
+    },
+    {
+      "title": "Arcanum-Sec/msftrecon",
+      "url": "https://github.com/Arcanum-Sec/msftrecon",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "MakerSkillTree/README.md at main · sjpiper145/MakerSkillTree",
+      "url": "https://github.com/sjpiper145/MakerSkillTree/blob/main/README.md",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "danielbohannon.github.io/Invoke-DOSfuscation Screenshot.png at master · danielbohannon/danielbohannon.github.io · GitHub",
+      "url": "https://github.com/danielbohannon/danielbohannon.github.io/blob/master/Invoke-DOSfuscation%20Screenshot.png",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - danielbohannon/Invoke-DOSfuscation: Cmd.exe Command Obfuscation Generator & Detection Test Harness",
+      "url": "https://github.com/danielbohannon/Invoke-DOSfuscation",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "url": "https://github.com/danielmiessler/fabric",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - ethack/tht: Threat Hunting Toolkit is a Swiss Army knife for threat hunting, log processing, and security-focused data science",
+      "url": "https://github.com/ethack/tht",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - gradle/gradle-build-scan-quickstart: An example project to experience the Build Scan® service of Develocity with Gradle builds.",
+      "url": "https://github.com/gradle/gradle-build-scan-quickstart",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - LasCC/Hack-Tools: The all-in-one Red Team extension for Web Pentester 🛠",
+      "url": "https://github.com/LasCC/Hack-Tools",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - pluja/awesome-privacy at cloudhiker.net",
+      "url": "https://github.com/pluja/awesome-privacy?ref=cloudhiker.net#youtube",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - s0md3v/Smap: a drop-in replacement for Nmap powered by shodan.io",
+      "url": "https://github.com/s0md3v/Smap",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "GitHub - secure-cake/win-mal-investigations: Windows Malware Investigation Scripts & Docs",
+      "url": "https://github.com/secure-cake/win-mal-investigations/tree/main",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Igglybuff/awesome-piracy: A curated list of awesome warez and piracy links",
+      "url": "https://github.com/Igglybuff/awesome-piracy?tab=readme-ov-file",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "fake-git-history/README.md at master · artiebits/fake-git-history",
+      "url": "https://github.com/artiebits/fake-git-history/blob/master/README.md",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "TryHackMe | Container Vulnerabilities",
+      "url": "https://tryhackme.com/room/containervulnerabilitiesDG",
+      "status_code": 200,
+      "domain": "tryhackme.com"
+    },
+    {
+      "title": "TryHackMe | Security Engineer Intro",
+      "url": "https://tryhackme.com/room/securityengineerintro",
+      "status_code": 200,
+      "domain": "tryhackme.com"
+    },
+    {
+      "title": "ARM - AttackRuleMap",
+      "url": "https://attackrulemap.com/",
+      "status_code": 200,
+      "domain": "attackrulemap.com"
+    },
+    {
+      "title": "Potential CVE-2022-29072 Exploitation Attempt | Detection.FYI",
+      "url": "https://detection.fyi/sigmahq/sigma/emerging-threats/2022/exploits/cve-2022-29072/proc_creation_win_exploit_cve_2022_29072_7zip/?query=7zip",
+      "status_code": 200,
+      "domain": "detection.fyi"
+    },
+    {
+      "title": "Detection.FYI",
+      "url": "https://detection.fyi/",
+      "status_code": 200,
+      "domain": "detection.fyi"
+    },
+    {
+      "title": "Sigma",
+      "url": "https://github.com/SigmaHQ",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "sigconverter.io - sigma rule converter",
+      "url": "https://sigconverter.io/",
+      "status_code": 200,
+      "domain": "sigconverter.io"
+    },
+    {
+      "title": "Ultimate Guide About Linux Server Security Basics for Debian",
+      "url": "https://www.blunix.com/blog/ultimate-guide-about-linux-server-security-for-debian-linux.html?ref=dailydev",
+      "status_code": 200,
+      "domain": "www.blunix.com"
+    },
+    {
+      "title": "Jake's Resume - Overleaf, Online LaTeX Editor",
+      "url": "https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs",
+      "status_code": 200,
+      "domain": "www.overleaf.com"
+    },
+    {
+      "title": "5406 Connecticut Avenue Northwest Unit #704 & Parking Space S8, Washington, DC Purchase Order #2023-5364 - Qualia",
+      "url": "https://connect.qualia.com/orders/dZX29AnqYuqkKgqJe",
+      "status_code": 200,
+      "domain": "connect.qualia.com"
+    },
+    {
+      "title": "Your Loan Servicing Center",
+      "url": "https://firsthome.yourmortgageonline.com/login",
+      "status_code": 200,
+      "domain": "firsthome.yourmortgageonline.com"
+    },
+    {
+      "title": "Chase Plaza, a Condominium : Sign In",
+      "url": "https://nabo.cincwebaxis.com/account/loginmodernthemes",
+      "status_code": 200,
+      "domain": "nabo.cincwebaxis.com"
+    },
+    {
+      "title": "My Loan Servicer - Document Center",
+      "url": "https://cs.myloanservicer.com/cs/#/document-center",
+      "status_code": 200,
+      "domain": "cs.myloanservicer.com"
+    },
+    {
+      "title": "Borrower Portal",
+      "url": "https://firsthomemortgage.mymortgage-online.com/borrower-app/?siteId=1276844701&workFlowId=43656",
+      "status_code": 200,
+      "domain": "firsthomemortgage.mymortgage-online.com"
+    },
+    {
+      "title": "Career Contessa | Career Advice & Job Search Site for Women",
+      "url": "https://www.careercontessa.com/",
+      "status_code": 200,
+      "domain": "www.careercontessa.com"
+    },
+    {
+      "title": "Otta - The better way to find a job in tech",
+      "url": "https://app.otta.com/",
+      "status_code": 200,
+      "domain": "app.otta.com"
+    },
+    {
+      "title": "Candidate Portal",
+      "url": "https://www1.jobdiva.com/portal/?a=aqjdnwo3v8u6wmvtn69zqqcruodkfg0995luxuea8829goycxm15cgr3ic7wixhv&jobid=25355634#/",
+      "status_code": 200,
+      "domain": "www1.jobdiva.com"
+    },
+    {
+      "title": "LoopCV",
+      "url": "https://app.loopcv.pro/loops/b95a91e0-f840-11ee-ad77-25c6939b0dc7/matches?progress=true",
+      "status_code": 200,
+      "domain": "app.loopcv.pro"
+    },
+    {
+      "title": "GitHub - LetsDefend/SOC-Interview-Questions: SOC Interview Questions",
+      "url": "https://github.com/LetsDefend/SOC-Interview-Questions",
+      "status_code": 200,
+      "domain": "github.com"
+    },
+    {
+      "title": "Remote Jobs in Programming, Support, Design and more",
+      "url": "https://remotive.com/",
+      "status_code": 200,
+      "domain": "remotive.com"
+    },
+    {
+      "title": "Most Important Word in Cowboy Bebop - The Cowboy Bebop Attic: Essays and Analyses",
+      "url": "http://bebopattic.weebly.com/the-most-important-word-in-cowboy-bebop.html",
+      "status_code": 200,
+      "domain": "bebopattic.weebly.com"
+    },
+    {
+      "title": "Toonami Aftermath | Space is the Place",
+      "url": "http://www.toonamiaftermath.com/",
+      "status_code": 200,
+      "domain": "www.toonamiaftermath.com"
+    },
+    {
+      "title": "https://www.tunefind.com",
+      "url": "https://www.tunefind.com/",
+      "status_code": 200,
+      "domain": "www.tunefind.com"
+    },
+    {
+      "title": "Watch Streaming Anime Subbed Online for Free",
+      "url": "https://www.wcoanimesub.tv/",
+      "status_code": 200,
+      "domain": "www.wcoanimesub.tv"
+    },
+    {
+      "title": "Home Page - ToS;DR",
+      "url": "https://tosdr.org/en",
+      "status_code": 200,
+      "domain": "tosdr.org"
+    },
+    {
+      "title": "Microsoft Zero Trust Assessment | Microsoft Zero Trust Workshop",
+      "url": "https://microsoft.github.io/zerotrustassessment/guide",
+      "status_code": 200,
+      "domain": "microsoft.github.io"
+    },
+    {
+      "title": "A Aeolian Scale",
+      "url": "http://jguitar.com/scale?root=A&scale=Aeolian&fret=12&labels=tone¬es=sharps",
+      "status_code": 200,
+      "domain": "jguitar.com"
+    },
+    {
+      "title": "Free Guitar Teaching Materials",
+      "url": "http://www.teachguitar.com/teaching/teachmats_theory_development.htm",
+      "status_code": 200,
+      "domain": "www.teachguitar.com"
+    },
+    {
+      "title": "Modes of the Major Scale - Guitar Scales",
+      "url": "http://www.guitarorb.com/modes-of-the-major-scale/",
+      "status_code": 200,
+      "domain": "www.guitarorb.com"
+    },
+    {
+      "title": "7 Modes",
+      "url": "http://www.guitarhabits.com/play-and-apply-the-7-modes-in-7-days-tabs-incl/",
+      "status_code": 200,
+      "domain": "www.guitarhabits.com"
+    },
+    {
+      "title": "7-and-8-string-exercises.pdf",
+      "url": "http://guitargearfinder.com/wp-content/uploads/2017/12/7-and-8-string-exercises.pdf",
+      "status_code": 200,
+      "domain": "guitargearfinder.com"
+    },
+    {
+      "title": "E sus4 Guitar Chord Fingering",
+      "url": "http://www.chorder.com/guitar-chords/e/sus4/1",
+      "status_code": 200,
+      "domain": "www.chorder.com"
+    },
+    {
+      "title": "F sus4 Guitar Chord Fingering",
+      "url": "http://www.chorder.com/guitar-chords/f/sus4/1",
+      "status_code": 200,
+      "domain": "www.chorder.com"
+    },
+    {
+      "title": "Chord Calculator",
+      "url": "http://www.musictheory.net/calculators/chord",
+      "status_code": 200,
+      "domain": "www.musictheory.net"
+    },
+    {
+      "title": "(2) Armando Trovajoli 'La Matriarca' (slow theme) - YouTube",
+      "url": "https://www.youtube.com/watch?v=D-eelxLfSaI&index=2&list=PLFnE2c7rHHXB1qQ9P2cooI5aBCGtHDvSP",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "(2) Blue Moon - Oscar Peterson (from \"American Hustle\") - YouTube",
+      "url": "https://www.youtube.com/watch?v=PJGmsi69A1k&index=2&list=RDQM8M_n7ik4CQc",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "(2) Freda Payne- A Song For You - YouTube",
+      "url": "https://www.youtube.com/watch?v=Uxbf_AGGJXU&index=9&list=PLFnE2c7rHHXB1qQ9P2cooI5aBCGtHDvSP",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "(2) How To Make A Sampled Lofi Hip Hop Beat in Logic Pro X - YouTube",
+      "url": "https://www.youtube.com/watch?v=7utXOtj0Pho",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "Convert YouTube to MP3 - just 4 steps to convert YouTube videos",
+      "url": "https://www.flvto.biz/youtube-to-mp3/",
+      "status_code": 200,
+      "domain": "www.flvto.biz"
+    },
+    {
+      "title": "Hot Samples",
+      "url": "https://www.reddit.com/r/HotSamples/#res:ner-page=2",
+      "status_code": 200,
+      "domain": "www.reddit.com"
+    },
+    {
+      "title": "(2) Fifty Grand - Severed Arm - YouTube",
+      "url": "https://www.youtube.com/watch?v=ymOyRK1oaV0&index=7&list=PLBcIoHplCsGlbFnhdIBEiPO0F3RG1VhXY",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "Free Packs | Noiiz",
+      "url": "https://www.noiiz.com/sounds/free_packs/",
+      "status_code": 200,
+      "domain": "www.noiiz.com"
+    },
+    {
+      "title": "https://freesound.org/",
+      "url": "https://freesound.org/",
+      "status_code": 200,
+      "domain": "freesound.org"
+    },
+    {
+      "title": "Hot Samples",
+      "url": "https://www.reddit.com/r/HotSamples/",
+      "status_code": 200,
+      "domain": "www.reddit.com"
+    },
+    {
+      "title": "Autochords : Chord Progression Generator",
+      "url": "https://autochords.com/",
+      "status_code": 200,
+      "domain": "autochords.com"
+    },
+    {
+      "title": "Beginner’s Guide To Shredding Part 1 | Shredaholic.com",
+      "url": "http://www.shredaholic.com/totalguitar2.html",
+      "status_code": 200,
+      "domain": "www.shredaholic.com"
+    },
+    {
+      "title": "c",
+      "url": "http://www.flashcardmachine.com/all-triads.html",
+      "status_code": 200,
+      "domain": "www.flashcardmachine.com"
+    },
+    {
+      "title": "Chord Progressions | Guitar Lesson World",
+      "url": "https://www.guitarlessonworld.com/lessons/chord-progressions/",
+      "status_code": 200,
+      "domain": "www.guitarlessonworld.com"
+    },
+    {
+      "title": "Circle Of Fifths",
+      "url": "http://www.all-guitar-chords.com/circle-of-fifths.php",
+      "status_code": 200,
+      "domain": "www.all-guitar-chords.com"
+    },
+    {
+      "title": "Determining song chords using the circle - YouTube",
+      "url": "https://www.youtube.com/watch?v=fqGKVjPnHlY",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "Every Guitar chord you'll ever need in one chart | Rocking Fundas",
+      "url": "http://www.rockingfundas.com/2011/07/every-guitar-chord-youll-ever-need-in.html",
+      "status_code": 200,
+      "domain": "www.rockingfundas.com"
+    },
+    {
+      "title": "Every Noise at Once",
+      "url": "http://www.furia.com/misc/genremaps/engenremap.html",
+      "status_code": 200,
+      "domain": "www.furia.com"
+    },
+    {
+      "title": "Everyday Practice Techniques for the Intermediate Player - YouTube",
+      "url": "https://www.youtube.com/watch?v=3TGDIOT6c0A",
+      "status_code": 200,
+      "domain": "www.youtube.com"
+    },
+    {
+      "title": "flowkey",
+      "url": "https://app.flowkey.com/player/4EmWxxNgaBRBdXgA6",
+      "status_code": 200,
+      "domain": "app.flowkey.com"
+    },
+    {
+      "title": "Freesound.org - Sounds browse",
+      "url": "http://freesound.org/browse/",
+      "status_code": 200,
+      "domain": "freesound.org"
+    },
+    {
+      "title": "Harmony Explained: Progress Towards A Scientific Theory of Music",
+      "url": "http://arxiv.org/html/1202.4212v1",
+      "status_code": 200,
+      "domain": "arxiv.org"
+    },
+    {
+      "title": "How To Become A Recording Engineer, Part 3",
+      "url": "http://www.soundonsound.com/sos/jun99/articles/engineers3.htm",
+      "status_code": 200,
+      "domain": "www.soundonsound.com"
+    },
+    {
+      "title": "Interval Calculator",
+      "url": "http://www.musictheory.net/calculators/interval",
+      "status_code": 200,
+      "domain": "www.musictheory.net"
+    },
+    {
+      "title": "Keyboard Note Identification",
+      "url": "http://www.musictheory.net/exercises/keyboard/y9dyyn",
+      "status_code": 200,
+      "domain": "www.musictheory.net"
+    },
+    {
+      "title": "Lead Guitar Solo Myth-Buster and A Cool Way to Create Your Own Unique Guitar Solos | Guitar Accelerator Blog: Play Guitar - Over 130 Free Electric and Acoustic Guitar Lessons and Tutorials",
+      "url": "http://guitaraccelerator.com/blog/lead-guitar/lead-guitar-solo-myth-buster-and-a-cool-way-to-create-your-own-unique-guitar-solos/",
+      "status_code": 200,
+      "domain": "guitaraccelerator.com"
+    },
+    {
+      "title": "List of All Major Scales with Notes, Diatonic Triads, & Relative Minors | Music Theory Site",
+      "url": "http://musictheorysite.com/major-scales/list-of-all-major-scales/",
+      "status_code": 200,
+      "domain": "musictheorysite.com"
+    },
+    {
+      "title": "Logic Pro X Help: Get started overview",
+      "url": "https://help.apple.com/logicpro/mac/10/#lgcpca46988d",
+      "status_code": 200,
+      "domain": "help.apple.com"
+    },
+    {
+      "title": "Map of Metal",
+      "url": "https://mapofmetal.com/",
+      "status_code": 200,
+      "domain": "mapofmetal.com"
+    },
+    {
+      "title": "Music Theory: Intervals",
+      "url": "http://musictheoryblog.blogspot.com/2007/01/intervals.html",
+      "status_code": 200,
+      "domain": "musictheoryblog.blogspot.com"
+    },
+    {
+      "title": "Music-Map - The Tourist Map of Music",
+      "url": "https://www.music-map.com/",
+      "status_code": 200,
+      "domain": "www.music-map.com"
+    },
+    {
+      "title": "Organize Your Spotify Music",
+      "url": "http://organizeyourmusic.playlistmachinery.com/",
+      "status_code": 200,
+      "domain": "organizeyourmusic.playlistmachinery.com"
+    },
+    {
+      "title": "Patatap",
+      "url": "http://www.patatap.com/",
+      "status_code": 200,
+      "domain": "www.patatap.com"
+    },
+    {
+      "title": "Physics & Psychophysics of Sound and Music",
+      "url": "http://www.avatar.com.au/courses/PPofM/",
+      "status_code": 200,
+      "domain": "www.avatar.com.au"
+    },
+    {
+      "title": "Quick Home Studio Monitor Tests - Hometracked",
+      "url": "http://www.hometracked.com/2008/01/25/quick-home-studio-monitor-tests/",
+      "status_code": 200,
+      "domain": "www.hometracked.com"
+    },
+    {
+      "title": "Reading Rhythms - Counting Music by Phil and David Tulga",
+      "url": "http://www.philtulga.com/counter.html",
+      "status_code": 200,
+      "domain": "www.philtulga.com"
+    },
+    {
+      "title": "SAGE",
+      "url": "https://hate5six.com/sage",
+      "status_code": 200,
+      "domain": "hate5six.com"
+    },
+    {
+      "title": "Spotibot.com - Generate Spotify Playlists powered by Lastfm!",
+      "url": "http://www.spotibot.com/",
+      "status_code": 200,
+      "domain": "www.spotibot.com"
+    },
+    {
+      "title": "Streaming Music Secrets: How To Get More Out Of Spotify",
+      "url": "http://www.makeuseof.com/tag/streaming-music-secrets-spotify/",
+      "status_code": 200,
+      "domain": "www.makeuseof.com"
+    },
+    {
+      "title": "typedrummer",
+      "url": "http://typedrummer.com/",
+      "status_code": 200,
+      "domain": "typedrummer.com"
+    },
+    {
+      "title": "Untitled",
+      "url": "https://www.hooktheory.com/hookpad/app",
+      "status_code": 200,
+      "domain": "www.hooktheory.com"
+    },
+    {
+      "title": "Y100 Top 300 Songs of the 90's (Sep. 2000)",
+      "url": "http://www.rocklists.com/alltime34.html",
+      "status_code": 200,
+      "domain": "www.rocklists.com"
+    },
+    {
+      "title": "TONECRAFT BY DINAHMOE-Transforming silence into unappreciated effort.",
+      "url": "https://dinahmoelabs.com/tonecraft",
+      "status_code": 200,
+      "domain": "dinahmoelabs.com"
+    },
+    {
+      "title": "Freesound - Search",
+      "url": "https://freesound.org/search/?q=splash&f=tag%3A%22water%22",
+      "status_code": 200,
+      "domain": "freesound.org"
+    },
+    {
+      "title": "BBC Sound Effects",
+      "url": "https://sound-effects.bbcrewind.co.uk/",
+      "status_code": 200,
+      "domain": "sound-effects.bbcrewind.co.uk"
+    },
+    {
+      "title": "A Aeolian Scale",
+      "url": "http://jguitar.com/scale?root=A&scale=Aeolian&fret=12&labels=tone%C2%ACes=sharps",
+      "status_code": 200,
+      "domain": "jguitar.com"
+    },
+    {
+      "title": "myivy.ivytech.edu",
+      "url": "https://myivy.ivytech.edu/",
+      "status_code": 200,
+      "domain": "myivy.ivytech.edu"
+    },
+    {
+      "title": "I'm Learning | Networking Academy",
+      "url": "https://www.netacad.com/portal/learning?launch_course=1",
+      "status_code": 200,
+      "domain": "www.netacad.com"
+    },
+    {
+      "title": "VitalSource Bookshelf: Computer Hacking Forensic Investigator (CHFI) v11 Academia Series eBook (Volumes 1 - 4)",
+      "url": "https://bookshelf.vitalsource.com/reader/books/9798885938549/pageid/1070",
+      "status_code": 200,
+      "domain": "bookshelf.vitalsource.com"
+    },
+    {
+      "title": "Interactive Media Bias Chart Public - Ad Fontes Media",
+      "url": "https://adfontesmedia.com/interactive-media-bias-chart/",
+      "status_code": 200,
+      "domain": "adfontesmedia.com"
+    },
+    {
+      "title": "MangaSee - Read Free Manga Online",
+      "url": "https://mangasee123.com/",
+      "status_code": 200,
+      "domain": "mangasee123.com"
+    },
+    {
+      "title": "GalaxyAudiobook.com - free audiobooks online for everyone",
+      "url": "https://galaxyaudiobook.com/",
+      "status_code": 200,
+      "domain": "galaxyaudiobook.com"
+    },
+    {
+      "title": "Anna’s Archive",
+      "url": "https://annas-archive.org/",
+      "status_code": 200,
+      "domain": "annas-archive.org"
+    },
+    {
+      "title": "Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.",
+      "url": "https://singlelogin.re/",
+      "status_code": 200,
+      "domain": "singlelogin.re"
+    },
+    {
+      "title": "ReadComicOnline - Read comics online in high quality",
+      "url": "https://readcomiconline.li/",
+      "status_code": 200,
+      "domain": "readcomiconline.li"
+    },
+    {
+      "title": "EverythingMoe - Index of best Anime/Manga sites",
+      "url": "https://everythingmoe.com/",
+      "status_code": 200,
+      "domain": "everythingmoe.com"
+    },
+    {
+      "title": "Archive Buttons | Free Paywall Remover",
+      "url": "https://www.archivebuttons.com/",
+      "status_code": 200,
+      "domain": "www.archivebuttons.com"
+    },
+    {
+      "title": "Feedly – Keep up with the topics and trends you care about",
+      "url": "https://feedly.com/i/my",
+      "status_code": 200,
+      "domain": "feedly.com"
+    },
+    {
+      "title": "Employee Portal",
+      "url": "https://seq.prismhr.com/seq/auth/#/login?lang=en",
+      "status_code": 200,
+      "domain": "seq.prismhr.com"
+    },
+    {
+      "title": "Employee Portal",
+      "url": "https://seq.prismhr.com/seq/auth/#/login?lang=en",
+      "status_code": 200,
+      "domain": "seq.prismhr.com"
+    },
+    {
+      "title": "Amazon Web Services Sign-In",
+      "url": "https://us-east-2.signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&code_challenge=725CWGfPGTm3qdlaj0WtIsnIYL3BmDGnPPF2n7BrghQ&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-east-2_d43ae1774042ed3d",
+      "status_code": 200,
+      "domain": "us-east-2.signin.aws.amazon.com"
+    },
+    {
+      "title": "dle64 | TShirtSlayer TShirt and BattleJacket Gallery",
+      "url": "https://tshirtslayer.com/user/dle64",
+      "status_code": 200,
+      "domain": "tshirtslayer.com"
+    },
+    {
+      "title": "megathread - Piracy",
+      "url": "https://www.reddit.com/r/Piracy/wiki/megathread",
+      "status_code": 200,
+      "domain": "www.reddit.com"
+    },
+    {
+      "title": "Awesome Piracy",
+      "url": "https://shakil-shahadat.github.io/awesome-piracy/#audiobooks",
+      "status_code": 200,
+      "domain": "shakil-shahadat.github.io"
+    },
+    {
+      "title": "Policy Documents",
+      "url": "https://account.markelamerican.com/MyAccount/PolicyDocuments?accountNumber=MCY00000746044",
+      "status_code": 200,
+      "domain": "account.markelamerican.com"
+    },
+    {
+      "title": "Loren + Walter - Wedding",
+      "url": "https://janelleputrichphotography.passgallery.com/-lorenwalterwedding/login?&redirect_back=%2f-lorenwalterwedding%2fgallery",
+      "status_code": 200,
+      "domain": "janelleputrichphotography.passgallery.com"
+    },
+    {
+      "title": "MuscleWiki - Simplify your workout",
+      "url": "https://musclewiki.com/",
+      "status_code": 200,
+      "domain": "musclewiki.com"
+    },
+    {
+      "title": "Loren + Walter - Wedding",
+      "url": "https://janelleputrichphotography.passgallery.com/-lorenwalterwedding/gallery",
+      "status_code": 200,
+      "domain": "janelleputrichphotography.passgallery.com"
+    },
+    {
+      "title": "#RightWingSexualPredators",
+      "url": "https://docs.google.com/document/u/0/d/e/2PACX-1vTFikAP6MXDCJjWzgMIOvpsT1ji-HwO-rLEvNE8e-cfCGh0YHoZluIG5TEsmwFub7MzIDfh0XgvcWL8/pub?pli=1",
+      "status_code": 200,
+      "domain": "docs.google.com"
+    },
+    {
+      "title": "The Nostalgia Machine",
+      "url": "http://thenostalgiamachine.com/",
+      "status_code": 200,
+      "domain": "thenostalgiamachine.com"
+    },
+    {
+      "title": "ThisIsWhyImBroke :: The Internet's Mall",
+      "url": "https://www.thisiswhyimbroke.com/",
+      "status_code": 200,
+      "domain": "www.thisiswhyimbroke.com"
+    },
+    {
+      "title": "65 Words: Write daily in your target language",
+      "url": "https://65words.com/",
+      "status_code": 200,
+      "domain": "65words.com"
+    },
+    {
+      "title": "Universal Service Administrative Company (USAC) - Prod - Sign In",
+      "url": "https://usac.okta.com/",
+      "status_code": 200,
+      "domain": "usac.okta.com"
+    },
+    {
+      "title": "SEOStudio - 100% Free Online Tools Collection",
+      "url": "https://seostudio.tools/",
+      "status_code": 200,
+      "domain": "seostudio.tools"
+    },
+    {
+      "title": "Cookbook | Noods.io",
+      "url": "https://noods.io/cookbook",
+      "status_code": 200,
+      "domain": "noods.io"
+    },
+    {
+      "title": "Can You RUN It | Can I Run It | Can My PC Run It",
+      "url": "https://www.systemrequirementslab.com/cyri",
+      "status_code": 200,
+      "domain": "www.systemrequirementslab.com"
+    },
+    {
+      "title": "Keys' Summer 2025 Bucket List - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/1yQEukj933NksPkzQuDZZvH9-xc7ip1YjN8mzqyS4-50/edit?gid=0#gid=0",
+      "status_code": 200,
+      "domain": "docs.google.com"
+    },
+    {
+      "title": "CarCareKiosk – Free How-to Videos to Fix Your Car",
+      "url": "https://www.carcarekiosk.com/",
+      "status_code": 200,
+      "domain": "www.carcarekiosk.com"
+    },
+    {
+      "title": "Temp Mail: free temporary disposable email generator. One-time 'fake-like' private secure emails",
+      "url": "https://adguard.com/en/adguard-temp-mail/overview.html",
+      "status_code": 200,
+      "domain": "adguard.com"
+    }
+  ]
+}
